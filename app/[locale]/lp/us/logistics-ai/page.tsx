@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { useModal } from '@/components/ContactForm/ModalContext';
-import { Clock, FileX, MessageSquareOff, CheckCircle, ChevronRight } from 'lucide-react';
+import { Clock, FileX, PhoneOff, CheckCircle, ChevronRight } from 'lucide-react';
 
 const fadeUp = {
     hidden: { y: 40, opacity: 0 },
@@ -68,7 +68,7 @@ export default function LogisticsAILandingPage() {
                         {[
                             { icon: Clock, title: 'Manual Dispatch Eating Hours', desc: 'Routing, status calls, driver coordination — your dispatchers are doing work that AI should handle automatically.' },
                             { icon: FileX, title: '28-Day Invoice Cycles', desc: 'Manual invoicing delays your cash flow by weeks. Your team is chasing paperwork instead of growing the business.' },
-                            { icon: MessageSquareOff, title: 'Phone-Based Driver Comms', desc: 'Coordinating drivers via phone leads to errors, compliance gaps, and dispatchers who can\'t scale.' },
+                            { icon: PhoneOff, title: 'Phone-Based Driver Comms', desc: 'Coordinating drivers via phone leads to errors, compliance gaps, and dispatchers who can\'t scale.' },
                         ].map((pain, i) => {
                             const Icon = pain.icon;
                             return (

@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 import { useModal } from '@/components/ContactForm/ModalContext';
-import { Clock, FileX, MessageSquareOff, Truck, Receipt, Radio, ChevronRight } from 'lucide-react';
+import { Clock, FileX, PhoneOff, Truck, Receipt, Radio, ChevronRight } from 'lucide-react';
 
 const staggerContainer = {
     hidden: { opacity: 0 },
@@ -27,7 +27,7 @@ const painPoints = [
         description: 'Manual invoicing processes result in 28+ day payment cycles. Cash flow suffers while your team chases paperwork instead of growing the business.',
     },
     {
-        icon: MessageSquareOff,
+        icon: PhoneOff,
         title: 'Driver Communications Breakdown',
         description: 'Phone-based driver coordination leads to missed updates, routing errors, and compliance gaps. Dispatchers can\'t scale because they\'re stuck on phones.',
     },

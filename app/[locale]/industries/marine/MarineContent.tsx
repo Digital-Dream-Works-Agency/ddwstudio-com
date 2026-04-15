@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 import { useModal } from '@/components/ContactForm/ModalContext';
-import { CalendarX, Package, MessageSquareOff, CalendarCheck, Box, Bell, ChevronRight } from 'lucide-react';
+import { CalendarX, Package, PhoneOff, CalendarCheck, Box, Bell, ChevronRight } from 'lucide-react';
 
 const staggerContainer = {
     hidden: { opacity: 0 },
@@ -27,7 +27,7 @@ const painPoints = [
         description: 'Manual inventory tracking means you\'re always ordering emergency parts or discovering mid-service that the part you need isn\'t in stock. Both scenarios kill margins and customer trust.',
     },
     {
-        icon: MessageSquareOff,
+        icon: PhoneOff,
         title: 'Customer Communication Gaps',
         description: 'Without automated customer updates, boat owners call constantly for status updates — consuming staff time and degrading the service experience.',
     },
