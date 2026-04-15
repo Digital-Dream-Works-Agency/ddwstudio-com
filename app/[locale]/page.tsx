@@ -10,6 +10,7 @@
 
 import { use } from 'react';
 import { setRequestLocale } from 'next-intl/server';
+import ScrollProgress from '@/components/ScrollProgress';
 import Navigation from '@/components/Navigation';
 import Hero3D from '@/components/Hero3D';
 import Stats from '@/components/Stats';
@@ -37,6 +38,7 @@ export default function Home({
 
     return (
         <main className="min-h-screen relative">
+            <ScrollProgress />
             {/* Noise Texture Overlay — visual effect, no translation needed */}
             <div className="noise"></div>
 

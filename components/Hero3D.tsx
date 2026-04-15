@@ -14,18 +14,36 @@
 
 import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
+import { motion, useScroll, useTransform } from 'framer-motion';
 // useTranslations — the main hook for getting translated strings
 import { useTranslations } from 'next-intl';
 import { Truck, Thermometer, Building2, HardHat, Store, Anchor, Ship, TrendingUp, Briefcase } from 'lucide-react';
 import { useModal } from './ContactForm/ModalContext';
+
+const industryItems = [
+    { key: 'logistics',           icon: Truck },
+    { key: 'hvac',                icon: Thermometer },
+    { key: 'realEstate',          icon: Building2 },
+    { key: 'construction',        icon: HardHat },
+    { key: 'franchise',           icon: Store },
+    { key: 'marine',              icon: Anchor },
+    { key: 'maritime',            icon: Ship },
+    { key: 'wealthManagement',    icon: TrendingUp },
+    { key: 'professionalServices',icon: Briefcase },
+];
 
 export default function Hero3D() {
     const [isVisible, setIsVisible] = useState(false);
     const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
     const heroRef = useRef<HTMLElement>(null);
 
+    // Scroll parallax — background moves 30% slower than scroll
+    const { scrollY } = useScroll();
+    const bgY = useTransform(scrollY, [0, 800], [0, -160]);
+    const sphereY = useTransform(scrollY, [0, 800], [0, -80]);
+    const contentY = useTransform(scrollY, [0, 800], [0, 60]);
+
     // useTranslations('Hero') — reads from the "Hero" key in the current locale's JSON file
-    // t('key') returns the translated string for that key
     const t = useTranslations('Hero');
     const { openContactModal } = useModal();
 
@@ -49,29 +67,30 @@ export default function Hero3D() {
 
     return (
         <section ref={heroRef} className="w-full relative min-h-screen flex items-center justify-center overflow-hidden">
-            {/* Background Image - 3D Shapes (no translation needed for visual elements) */}
-            <div className="absolute inset-0">
+            {/* Background Image — parallax on scroll */}
+            <motion.div className="absolute inset-0" style={{ y: bgY }}>
                 <Image
                     src="/images/built-fot-07.jpg"
                     alt="AI Enterprise Platform"
                     fill
                     sizes="100vw"
-                    className="object-cover opacity-50"
+                    className="object-cover opacity-50 scale-110"
                     priority
                 />
                 <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/80 to-black"></div>
-            </div>
+            </motion.div>
 
             {/* Background Elements — visual effects, no translation needed */}
             <div className="hero-gradient"></div>
             <div className="grid-pattern"></div>
 
-            {/* AI Sphere Visual - Floating (visual only, no text) */}
-            <div
+            {/* AI Sphere Visual - Floating + scroll parallax */}
+            <motion.div
                 className="absolute top-1/4 right-[10%] w-[300px] h-[300px] opacity-60 hidden lg:block"
                 style={{
-                    transform: `translate(${mousePosition.x * -40}px, ${mousePosition.y * -40}px)`,
-                    transition: 'transform 0.3s ease-out'
+                    y: sphereY,
+                    x: mousePosition.x * -40,
+                    transition: 'transform 0.3s ease-out',
                 }}
             >
                 <Image
@@ -81,7 +100,7 @@ export default function Hero3D() {
                     sizes="300px"
                     className="object-contain animate-float-slow"
                 />
-            </div>
+            </motion.div>
 
             {/* 3D Floating Shapes — visual decorations, no translation needed */}
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -242,40 +261,28 @@ export default function Hero3D() {
                         </a>
                     </div>
 
-                    {/* ===== TRUST INDICATORS / TICKER ===== */}
+                    {/* ===== INDUSTRIES MARQUEE ===== */}
                     <div
-                        className={`transition-all duration-1000 delay-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
-                            }`}
+                        className={`transition-all duration-1000 delay-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}
                     >
-                        <p className="text-sm text-zinc-400 mb-10 uppercase tracking-[0.2em] font-semibold">{t('ticker')}</p>
-                        <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-6">
-                            {[
-                                { key: 'logistics', icon: Truck },
-                                { key: 'hvac', icon: Thermometer },
-                                { key: 'realEstate', icon: Building2 },
-                                { key: 'construction', icon: HardHat },
-                                { key: 'franchise', icon: Store },
-                                { key: 'marine', icon: Anchor },
-                                { key: 'maritime', icon: Ship },
-                                { key: 'wealthManagement', icon: TrendingUp },
-                                { key: 'professionalServices', icon: Briefcase },
-                            ].map(({ key, icon: Icon }) => (
-                                <div
-                                    key={key}
-                                    className="flex items-center gap-4 group cursor-default transition-all duration-300"
-                                >
-                                    <div className="relative">
-                                        <div className="w-12 h-12 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center group-hover:border-white/40 group-hover:bg-white/10 transition-all duration-500 shadow-xl group-hover:shadow-white/5">
-                                            <Icon className="w-6 h-6 text-white group-hover:scale-110 transition-transform duration-500" strokeWidth={1.5} />
+                        <p className="text-sm text-zinc-400 mb-6 uppercase tracking-[0.2em] font-semibold">{t('ticker')}</p>
+                        <div className="marquee-container">
+                            {/* Duplicate items for seamless loop */}
+                            <div className="animate-marquee shrink-0 gap-6 items-center">
+                                {[...industryItems, ...industryItems].map(({ key, icon: Icon }, i) => (
+                                    <div
+                                        key={`${key}-${i}`}
+                                        className="flex items-center gap-3 px-4 group cursor-default shrink-0"
+                                    >
+                                        <div className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center group-hover:border-accent-400/40 group-hover:bg-accent-400/10 transition-all duration-300">
+                                            <Icon className="w-5 h-5 text-white/60 group-hover:text-accent-300 transition-colors duration-300" strokeWidth={1.5} />
                                         </div>
-                                        {/* Subtle glow effect on hover */}
-                                        <div className="absolute inset-0 bg-white/20 blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-full"></div>
+                                        <span className="text-sm font-medium tracking-wide text-white/50 group-hover:text-white/80 transition-colors duration-300 whitespace-nowrap">
+                                            {t(`industries.${key}`)}
+                                        </span>
                                     </div>
-                                    <span className="text-sm font-semibold tracking-wide text-white/60 group-hover:text-white transition-colors duration-300">
-                                        {t(`industries.${key}`)}
-                                    </span>
-                                </div>
-                            ))}
+                                ))}
+                            </div>
                         </div>
                     </div>
                 </div>
