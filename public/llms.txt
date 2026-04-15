@@ -1,0 +1,35 @@
+# DDW Studio — AI Automation & Custom Software
+
+DDW Studio (Digital Dream Works LLC) is a technology company headquartered in St. Petersburg, Florida, USA, with European operations serving Italy and the EU via ddwstudio.it.
+
+## What We Build
+
+We design and deploy AI-first business systems: agentic AI networks, custom ERP platforms, voice AI receptionists, fleet management software, and industry-specific automation.
+
+## Products
+
+- **LYRA** — AI voice receptionist for automated inbound call handling (lyrabyddw.com)
+- **FleetOS** — Fleet management & AI dispatch platform (fleetosbyddw.com / fleetosbyddw.it)
+- **HR-OS** — AI-powered HRIS, onboarding, and workforce automation
+- **Sviluppiamo.dev** — Custom software development for Italian SMEs
+
+## Solutions
+
+- **Agentic AI Systems** — Multi-agent orchestration for complex business workflows
+- **Custom ERP** — Industry-specific enterprise resource planning built from scratch
+- **AI Automation** — Process automation, document processing, lead qualification
+- **Custom Software** — Full-stack web and mobile applications
+
+## Industries Served
+
+Logistics & Supply Chain, HVAC & Field Services, Real Estate, Construction, Franchise Operations, Marine, Maritime & Port Operations, Wealth Management, Professional Services
+
+## Company
+
+- Website: https://ddwstudio.com (EN) | https://ddwstudio.it (IT)
+- Contact: Brands@ddwstudio.com
+- LinkedIn: https://www.linkedin.com/company/digital-dream-works
+- Instagram: https://www.instagram.com/digi.dreamworks/
+- Founded: 2022
+- US Address: 7901 4th St N #23948, St. Petersburg, FL 33702, USA
+- IT Address: Roma, 00133, Italia

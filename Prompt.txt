@@ -1,0 +1,419 @@
+DDW Studio — ddwstudio.it
+Website Copy & Developer Instructions
+For: Rahim (Developer)  |  Prepared by: Usama  |  Language: Italian (IT)
+
+This document contains the complete copy and section-by-section build instructions for ddwstudio.it. All page text is in Italian. Developer notes are in English and marked with 📌 DEV NOTE. Do not translate dev notes — they are instructions for you.
+Pages covered: (1) Homepage  |  (2) HR-OS Product Page  |  (3) Generatore di Proposte AI  |  (4) Chi Siamo (About)
+
+PAGE 1 — HOMEPAGE (/)
+📌 DEV NOTE: Keep exact same section structure as current site. Replace all copy with the text below. Do not change layout, colors, or component types unless a dev note says otherwise.
+SECTION: Navigation Bar
+📌 DEV NOTE: Sticky nav. Keep existing layout: logo left, links center, 2 CTAs right. Language switcher (IT/EN) stays.
+Logo: DDW Studio
+Nav Link 1: Home
+Nav Link 2: Prodotti
+Nav Link 3: Chi Siamo
+CTA Button 1 (ghost): Parla con noi
+CTA Button 2 (filled): Richiedi Demo →
+SECTION: Hero
+📌 DEV NOTE: Full-width hero. Big headline left, product visual/animation right. Two CTA buttons below headline. Small trust badge above headline.
+BADGE ABOVE HEADLINE
+✦  Automazione AI Enterprise
+H1 HEADLINE (LARGE, BOLD, 2 LINES)
+Il 73% delle Aziende Italiane
+Perde Clienti per Lentezza Operativa.
+📌 DEV NOTE: Line 1 is white. Line 2 or a key word should be in purple/gradient — same style as current site.
+H2 SUBHEADLINE (SMALLER, BELOW H1)
+Le tue operations rallentano i tuoi ricavi?
+BODY PARAGRAPH
+DDW Studio ha costruito 4 prodotti AI enterprise che automatizzano le operazioni più critiche della tua azienda — dalle chiamate, alle proposte, alla gestione HR e alla logistica. Risultato: meno costi, meno errori, più conversioni.
+CTA BUTTON 1 (PRIMARY, FILLED)
+Prenota una Demo →
+CTA BUTTON 2 (GHOST)
+Scopri i Prodotti
+SMALL TRUST LINE BELOW CTAS
+✓ Nessun contratto annuale obbligatorio  ✓ Setup in 14 giorni  ✓ Supporto italiano dedicato
+SECTION: Numeri / Stats Bar
+📌 DEV NOTE: 4 stat items in a horizontal row. Keep existing card style with icon + big number + label.
+Stat 1: €2M+ — Valore delle operazioni automatizzate dai nostri clienti
+Stat 2: <60s — Tempo medio di risposta AI nelle chiamate LYRA
+Stat 3: 47% — Riduzione media dei costi operativi
+Stat 4: 99.9% — Uptime garantito su tutti i prodotti
+SECTION: Prodotti
+SECTION BADGE
+I Nostri Prodotti
+SECTION HEADLINE
+Prodotti AI Progettati per
+Eliminare i Colli di Bottiglia
+SECTION SUBTEXT
+Ogni prodotto risolve un problema operativo specifico che costa tempo e denaro alla tua azienda ogni giorno.
+📌 DEV NOTE: 4 product cards in 2x2 grid. Each card has: colored icon, product name, completion badge top-right, tagline, 2-line description, 3 feature tags, CTA link. Copy for each card below.
+Card 1 — LYRA
+Badge: 95% Completato
+Icon color: Purple
+Name: Lyra AI Voice Assistant
+Tagline: Il tuo receptionist AI che non dorme mai.
+Description: Lyra risponde alle chiamate, qualifica i lead e prenota appuntamenti in automatico — 24 ore su 24, 7 giorni su 7. Ogni chiamata persa è un cliente perso. Lyra elimina questo rischio.
+Tag 1: Voce Naturale AI
+Tag 2: Integrazione CRM
+Tag 3: Setup 14 Giorni
+CTA: Scopri di più →
+Card 2 — HR-OS
+Badge: 90% Completato
+Icon color: Blue
+Name: HR-OS
+Tagline: Automation HR che libera il tuo ufficio dalle attività manuali.
+Description: Gestione presenze, onboarding, documenti e ticket HR — tutto automatizzato. Il tuo team HR smette di rispondere alle stesse domande e inizia a fare ciò che conta davvero.
+Tag 1: Onboarding Automatico
+Tag 2: Chatbot HR 24/7
+Tag 3: Conformità HRAA
+CTA: Scopri di più →
+Card 3 — Fleet-OS
+Badge: 82%
+Icon color: Green
+Name: Fleet-OS
+Tagline: La logistica non ti aspetta. Il tuo TMS sì.
+Description: Gestione spedizioni, tracciamento fleet e ottimizzazione percorsi in tempo reale. Progettato per operatori logistici italiani con supporto ZTL, pedaggi autostrade e integrazione Transpobank.
+Tag 1: Tracking in Tempo Reale
+Tag 2: Conformità Italiana
+Tag 3: Dispatch Automatico
+CTA: Scopri di più →
+Card 4 — AI Proposal Generator
+Badge: 88%
+Icon color: Orange
+Name: AI Proposal Generator
+Tagline: Chiudi le trattative 3 volte più veloce.
+Description: Genera proposte di vendita professionali in meno di 60 secondi, personalizzate per ogni cliente. Connesso al tuo CRM — smetti di perdere tempo a scrivere proposte manualmente.
+Tag 1: Connessione CRM
+Tag 2: Template per Settore
+Tag 3: Firma Digitale
+CTA: Scopri di più →
+SECTION: Dalla Consulenza ai Risultati
+📌 DEV NOTE: Left: image/visual. Right: section label, headline, subtext, 3 feature bullet points with icons.
+SECTION BADGE
+DDW Agency
+HEADLINE
+Non Solo Software.
+Un Partner che Porta Risultati.
+SUBTEXT
+DDW Studio costruisce i prodotti. DDW Agency li implementa, li integra e li fa funzionare dentro la tua azienda — con un team dedicato che parla italiano e conosce il mercato locale.
+FEATURE 1
+🎯  Strategia di Automazione — Analizziamo i tuoi processi e identifichiamo dove l'AI genera più ROI in meno tempo.
+FEATURE 2
+⚙️  Integrazione Personalizzata — Connettiamo i nostri prodotti ai tuoi sistemi esistenti: CRM, ERP, gestionali aziendali.
+FEATURE 3
+📈  Crescita e AutoBuild — Ti affianchiamo nella crescita con campagne, automazioni marketing e sviluppo su misura.
+CTA: Scopri DDW Agency →
+SECTION: L'Evoluzione AI di Digital Dream Works
+📌 DEV NOTE: Two-column layout. Left: text block. Right: DDW Studio vs DDW Agency comparison cards + stats row. Keep existing layout.
+SECTION BADGE
+La Nostra Storia
+HEADLINE
+Da Agenzia a Studio di Prodotti AI Enterprise.
+BODY
+Digital Dream Works è nata come agenzia digitale full-service. Poi è arrivata l'AI — e con essa, una scelta strategica: smettere di vendere ore di lavoro e iniziare a costruire prodotti proprietari che risolvono problemi reali.
+Oggi DDW Studio è la divisione prodotti: 4 SaaS AI enterprise indipendenti, costruiti per automatizzare le operazioni critiche delle aziende italiane e internazionali.
+DDW STUDIO CARD
+DDW Studio — Divisione Prodotti AI Enterprise
+Quattro prodotti SaaS indipendenti basati su AI: LYRA, HR-OS, Fleet-OS, AI Proposal Generator. Creati per clienti enterprise che cercano un'unità scalabile.
+DDW AGENCY CARD
+Digital Dream Works Agency — Divisione Servizi
+Servizi su misura per clienti: marketing, sviluppo web, software personalizzato e automazione AI. Visita: DigitalDreamWorksAgency.com
+STATS ROW (4 ITEMS)
+Stat 1: 4 — Prodotti AI in sviluppo attivo
+Stat 2: 24/7 — Disponibilità operativa garantita
+Stat 3: 35.9% — Crescita media dei clienti
+Stat 4: Roma, Italia — Headquarter europeo
+SECTION: Cosa Dicono I Leader
+📌 DEV NOTE: 3 testimonial cards side by side. Quote + name + company + avatar placeholder. Keep existing layout.
+SECTION HEADLINE
+Cosa Dicono I Leader
+SECTION SUBTEXT
+Non sono promesse. Sono risultati reali da aziende che hanno già scelto l'automazione AI.
+Testimonial 1
+Quote: "LYRA ha trasformato completamente il nostro front-desk. Rispondiamo a ogni chiamata, anche di notte. In tre mesi abbiamo ridotto i lead persi del 60%."
+Name: Marco Ferretti
+Role: CEO, Studio Medico Roma
+Testimonial 2
+Quote: "L'AI Proposal Generator ci ha permesso di mandare proposte in 60 secondi. Il nostro tasso di chiusura è salito dal 28% al 47% in due mesi."
+Name: Giulia Marchetti
+Role: Sales Director, Agenzia B2B Milano
+Testimonial 3
+Quote: "HR-OS ha eliminato il 90% delle domande ripetitive al nostro ufficio HR. Il team ora si occupa di ciò che conta. Risultato immediato e misurabile."
+Name: Roberto Silvestri
+Role: HR Manager, Azienda Logistica Napoli
+SECTION: Sicurezza di Livello Bancario
+📌 DEV NOTE: Left: text + 4 feature items in 2x2 grid. Right: shield icon visual. Keep existing layout.
+SECTION BADGE
+Sicurezza Enterprise
+HEADLINE
+I Tuoi Dati Sono al Sicuro.
+Sempre.
+SUBTEXT
+Costruiamo software per aziende che gestiscono dati sensibili. Per questo ogni prodotto DDW Studio è progettato con standard di sicurezza enterprise: crittografia end-to-end, controllo accessi granulare e conformità normativa italiana ed europea.
+FEATURE 1
+🔒  Infrastruttura Sicura — Architettura cloud con crittografia AES-256 e isolamento dati per tenant.
+FEATURE 2
+✅  Conformità al GDPR — Tutti i dati processati e archiviati in conformità con la normativa europea.
+FEATURE 3
+👁  Controllo Granulare degli Accessi — Permessi per ruolo, log di accesso completi, autenticazione multi-fattore.
+FEATURE 4
+🛡  99.9% Uptime SLA — Infrastruttura ridondante con monitoraggio attivo 24/7 e disaster recovery.
+SECTION: Final CTA Banner
+📌 DEV NOTE: Full-width CTA section with background image/gradient. Centered text. Two buttons.
+HEADLINE
+Ogni Giorno Senza Automazione
+È un Giorno di Ricavi Persi.
+SUBTEXT
+Prenota una demo gratuita e scopri in 30 minuti esatti quanto tempo e denaro stai lasciando sul tavolo — e come DDW Studio può recuperarlo.
+CTA Button 1 (primary): Prenota una Demo Gratuita →
+CTA Button 2 (ghost): Parla con il Team di Vendita
+SECTION: Footer
+📌 DEV NOTE: Keep existing footer layout: logo + tagline left, 3 link columns center, social icons bottom left, legal bottom right.
+Tagline under logo: Piattaforma AI Enterprise per le Aziende Moderne.
+Column 1 title: Prodotti
+→  LYRA
+→  HR-OS
+→  Fleet-OS
+→  Proposal Gen
+Column 2 title: Azienda
+→  Home
+→  Chi Siamo
+→  Contatti
+Column 3 title: Legale
+→  Privacy
+→  Termini
+→  Sicurezza
+→  Cookie
+Copyright: © 2025 DDW Studio. Digital Dream Works LLC. Tutti i diritti riservati.
+Social icons: Twitter/X, LinkedIn, GitHub
+
+PAGE 2 — HR-OS (/products/hr-os)
+📌 DEV NOTE: Keep exact same section structure as current page. Replace all copy. Layout stays identical.
+SECTION: Hero
+📌 DEV NOTE: Left: headline + text + 2 CTAs + trust badge. Right: product visual/screenshot. Same layout as current.
+BADGE
+✦  Automazione HR basata su AI
+H1
+HR-OS
+H2 (COLORED TAGLINE)
+Smetti di Pagare il Tuo Team HR
+per Rispondere alle Stesse Domande.
+BODY
+L'80% delle richieste al reparto HR sono ripetitive. HR-OS le gestisce tutte in automatico — con AI conversazionale, onboarding guidato e gestione documenti — liberando il tuo team per il lavoro che genera davvero valore.
+CTA 1 (primary): Prenota una Demo →
+CTA 2 (ghost): Scopri di Più
+TRUST BADGE BELOW CTAS
+✓ 90% in meno di ticket HR
+SECTION: Cosa Automatizza HR-OS
+SECTION BADGE
+Unified Workforce
+HEADLINE
+Cosa Automatizza HR-OS
+📌 DEV NOTE: 6 feature cards in 2x3 grid. Icon + short title + description each.
+Feature 1
+Title: Supporto Dipendenti 24/7
+Body: L'AI risponde istantaneamente alle domande HR più comuni — ferie, policy, benefit, scadenze — a qualsiasi ora, senza coinvolgere il team.
+Feature 2
+Title: Onboarding Automatizzato
+Body: Ogni nuovo dipendente riceve un percorso di onboarding personalizzato: documenti, formazione, accessi — tutto passo dopo passo, senza coordinamento manuale.
+Feature 3
+Title: Q&A Policy Aziendali
+Body: Risposte istantanee su benefit, rimborsi, regolamenti e policy interne. L'AI conosce il tuo manuale aziendale meglio di chiunque.
+Feature 4
+Title: Gestione Assenze
+Body: Richieste di ferie, permessi e recuperi gestite in automatico — approvazioni, notifiche e aggiornamenti del calendario senza intervento umano.
+Feature 5
+Title: Elaborazione Documenti
+Body: Genera, invia e archivia automaticamente contratti, lettere HR e moduli. Firma digitale integrata — addio PDF via email.
+Feature 6
+Title: Monitoraggio Conformità
+Body: Traccia scadenze di formazione obbligatoria, certificazioni e rinnovi contrattuali. Zero sorprese in caso di audit.
+SECTION: Risultati Comprovati
+📌 DEV NOTE: 4 large stat items in a horizontal row. Keep existing visual style.
+Stat 1: 80% — In meno di ticket HR
+Stat 2: Risposta — Più veloce del 95%
+Stat 3: Disponibilità — 24/7
+Stat 4: Riduzione — Dell'80% del tempo di amministrazione HR
+SECTION: Creato Per
+📌 DEV NOTE: Left: bulleted list with icons. Right: product screenshot/image.
+HEADLINE
+Creato Per Chi Non Può Permettersi Inefficienze.
+→  Aziende Medie (50–500 dipendenti): Scala l'HR senza aumentare il personale.
+→  Dipartimenti HR Enterprise: Gestisci volumi elevati di query in modo efficiente.
+→  Aziende con più Sedi: Supporto HR coerente in tutti i team, ovunque si trovino.
+→  Organizzazioni Sanitarie: Automazione HR conforme HIPAA e normative italiane.
+→  Aziende di Logistica: Supporto 24/7 per lavoratori su turni e operatori di campo.
+SECTION: Intelligent Integrations
+📌 DEV NOTE: Horizontal scrolling connector row. Keep existing layout and style.
+BADGE
+Ecosistema
+HEADLINE
+Intelligent Integrations
+SUBTEXT
+HR-OS si connette ai tuoi sistemi esistenti, aggregando i dati delle principali piattaforme HR per una gestione unificata del personale.
+📌 DEV NOTE: Connector pills: SAP (verified), Custom ERP (verified), Custom APIs (verified), + one more TBD. Keep same connector card style.
+SECTION: Final CTA
+HEADLINE
+Pronto ad Automatizzare l'HR?
+SUBTEXT
+Scopri come HR-OS può liberare il tuo team HR dalle domande ripetitive — e restituirgli il tempo per fare ciò che conta davvero.
+CTA 1 (primary): Prenota una Demo →
+CTA 2 (ghost): Contatta l'Ufficio Vendite
+
+PAGE 3 — GENERATORE DI PROPOSTE AI (/products/proposal-gen)
+📌 DEV NOTE: Keep exact same section structure as current page. Replace all copy below.
+SECTION: Hero
+📌 DEV NOTE: Left: headline + description + 2 CTAs + badge. Right: product visual with +40% badge overlay. Keep layout.
+BADGE
+✦  Automazione Vendite AI
+H1
+Generatore di
+Proposte AI
+H2 (COLORED TAGLINE)
+I Tuoi Competitor Mandano Proposte
+Prima di Te. Cambia le Regole.
+BODY
+Il 60% delle trattative B2B si perde perché la proposta arriva in ritardo o è troppo generica. Il Generatore di Proposte AI crea proposte personalizzate, professionali e pronte per la firma in meno di 60 secondi — direttamente dai dati del tuo CRM.
+CTA 1 (primary): Prenota una Demo →
+CTA 2 (ghost): Scopri di Più
+TRUST BADGE
+✓ Finalizza trattative 3x più veloce
+SECTION: Cosa Automatizza
+BADGE
+Streamlined Sales
+HEADLINE
+Cosa Automatizza il Generatore di Proposte AI
+📌 DEV NOTE: 6 feature cards in 2x3 grid.
+Feature 1
+Title: Proposte Istantanee
+Body: Inserisci il nome del cliente e il prodotto — l'AI genera una proposta completa, formattata e professionale in meno di 60 secondi.
+Feature 2
+Title: Recupero Dati CRM
+Body: Si connette automaticamente al tuo CRM (Zoho, Monday, HubSpot) e popola ogni proposta con i dati reali del cliente, senza copia-incolla.
+Feature 3
+Title: Attivazione Vocale
+Body: Integrato con LYRA: crea una proposta semplicemente parlando. Descrivi la trattativa ad alta voce e il sistema genera il documento.
+Feature 4
+Title: Modelli Personalizzabili
+Body: Template professionali per ogni settore — consulenza, logistica, IT, healthcare, immobiliare. Personalizzabili al 100% con il tuo brand.
+Feature 5
+Title: Personalizzazione Automatica
+Body: Ogni proposta viene adattata al cliente specifico: industry, dimensione azienda, pain point identificati nel CRM. Zero proposte generiche.
+Feature 6
+Title: Firma Elettronica Integrata
+Body: Invia e traccia le proposte con firma elettronica nativa. Sai esattamente quando il cliente apre, legge e firma il documento.
+SECTION: Risultati Comprovati
+Stat 1: 3x — Proposte più veloci
+Stat 2: 60% — Proposte inviate in più
+Stat 3: 40% — Tasso di vincita
+Stat 4: 60s — Tempo creazione
+SECTION: Creato Per
+📌 DEV NOTE: Left: bulleted list. Right: 'Sales Performance Lift' visual card (keep as-is).
+HEADLINE
+Creato Per Chi Vende a Ciclo Lungo.
+→  Team di Vendita B2B: Chiudi più trattative con meno tempo burocratico tra un contatto e l'altro.
+→  Società di Consulenza: Proposte professionali che conquistano clienti al primo colpo.
+→  Agenzie di Marketing: Proposte di marca in pochi secondi per ogni briefing ricevuto.
+→  Fornitori di Servizi IT: Proposte tecniche con prezzi accurati, generate in automatico.
+→  Professionisti Immobiliari: Proposte immobiliari e deck di investimento in un click.
+SECTION: Intelligent Integrations
+BADGE
+Ecosistema
+HEADLINE
+Intelligent Integrations
+SUBTEXT
+Il Generatore di Proposte AI si connette al tuo stack CRM e vendite, recuperando i dati clienti in automatico per costruire proposte ad alto impatto.
+📌 DEV NOTE: Connector pills: Zoho CRM (verified), Monday.com (verified), Custom APIs (verified), Salesforce (add if possible).
+SECTION: Final CTA
+HEADLINE
+Inizia a Chiudere
+Trattative più Velocemente.
+SUBTEXT
+Scopri come il Generatore di Proposte AI crea proposte vincenti in meno di 60 secondi — e trasforma ogni contatto in un'opportunità reale.
+CTA 1 (primary): Prenota una Demo →
+CTA 2 (ghost): Contatta l'Ufficio Vendite
+
+PAGE 4 — CHI SIAMO (/about)
+📌 DEV NOTE: Keep exact same section structure as current page. Replace all copy below.
+SECTION: Page Hero
+📌 DEV NOTE: Centered. Badge + H1 + subtext. No image. Keep current style.
+BADGE
+✦  Chi Siamo
+H1
+Chi Siamo
+SUBTEXT
+DDW Studio è la divisione AI enterprise di Digital Dream Works LLC — costruiamo prodotti di automazione intelligente per trasformare il modo in cui operano le aziende moderne.
+SECTION: L'Evoluzione AI
+📌 DEV NOTE: Left: text block. Right: product visual/image. Keep current layout.
+BADGE
+La Nostra Storia
+HEADLINE
+L'Evoluzione AI di Digital Dream Works
+BODY PARAGRAPH 1
+Digital Dream Works LLC è una società tecnologica con sede in Florida, con operations europee a Roma, Italia. Siamo nati come agenzia digitale full-service — aiutando le aziende con marketing, sviluppo web e software su misura. Con l'arrivo dell'AI, abbiamo fatto una scelta strategica: smettere di vendere servizi generici e iniziare a costruire prodotti proprietari.
+BODY PARAGRAPH 2
+Oggi DDW Studio sviluppa quattro prodotti SaaS AI enterprise indipendenti. Ognuno attacca un collo di bottiglia operativo diverso — chiamate perse, proposte lente, HR inefficiente, logistica caotica. Il risultato: meno costi, meno errori, più controllo per i nostri clienti.
+SECTION: Una Società, Due Divisioni
+HEADLINE
+Una Società, Due Divisioni
+Card 1 — DDW Studio
+Title: DDW Studio — Divisione Prodotti AI Enterprise
+Body: Quattro prodotti SaaS AI indipendenti: LYRA, HR-OS, Fleet-OS, AI Proposal Generator. Creati per clienti enterprise che cercano automazione scalabile e risultati misurabili.
+Link: Nessun link (pagina corrente)
+Card 2 — DDW Agency
+Title: Digital Dream Works Agency — Divisione Servizi Professionali
+Body: Servizi su misura per clienti che vogliono crescere: marketing digitale, sviluppo web, software personalizzato e implementazione AI. Il braccio operativo del gruppo.
+Link text: Visita: DigitalDreamWorksAgency.com
+SECTION: La Nostra Suite di Prodotti AI
+HEADLINE
+La Nostra Suite di Prodotti AI
+SUBTEXT
+Quattro prodotti AI enterprise creati per automatizzare le operazioni più critiche.
+📌 DEV NOTE: 4 mini product cards in a row. Icon + name + one-line description. No CTA needed here.
+Card 1: LYRA AI Voice Assistant — Automazione delle chiamate basata su AI
+Card 2: HR-OS — Software di automazione HR basato su AI
+Card 3: Fleet-OS — Sistema di gestione flotte basato su AI
+Card 4: AI Proposal Generator — Generazione automatica di proposte di vendita
+SECTION: I Nostri Valori
+HEADLINE
+I Nostri Valori
+📌 DEV NOTE: 4 value cards in a row. Icon + title + short description.
+Value 1
+Title: Risultati al Primo Posto
+Body: Misuriamo il successo in base al tuo ROI — non al nostro fatturato.
+Value 2
+Title: Qualità Enterprise
+Body: Costruiamo secondo gli standard delle grandi piattaforme enterprise, non compromessi.
+Value 3
+Title: Tecnologia Trasparente
+Body: Saprai sempre cosa gira sotto — nessuna black box, nessun vendor lock-in.
+Value 4
+Title: Partnership con il Cliente
+Body: Il tuo successo è il nostro modello di business. Cresciamo insieme.
+SECTION: Stats Row
+📌 DEV NOTE: 4 large stats in a horizontal strip. Keep existing visual style.
+Stat 1: 4 Prodotti AI — In sviluppo attivo
+Stat 2: Oltre 500 Team Serviti — Attraverso DDW Agency
+Stat 3: 99.9% Uptime — Su tutti i prodotti
+Stat 4: Roma, Italia — Headquarter europeo
+SECTION: Final CTA
+HEADLINE
+Pronto a Trasformare le Tue Operazioni?
+SUBTEXT
+Prenota una demo e scopri come la piattaforma di automazione AI di DDW Studio può ridurre i tuoi costi e guidare la crescita.
+CTA 1 (primary): Prenota una Demo →
+CTA 2 (ghost): Contatta l'Ufficio Vendite
+
+FINAL DEV NOTES FOR RAHIM
+📌 DEV NOTE: Read all of these before starting work.
+1. All Italian text above is final. Do not modify spelling, punctuation, or accented characters (à, è, é, ì, ò, ù).
+2. 📌 DEV NOTE boxes throughout this document are instructions for you — not copy to put on the site.
+3. Keep all existing components, colors, layouts, and animations exactly as they are. Only replace text content.
+4. The design system is: black background (#080810), purple/violet (#6366f1, #8b5cf6), pink (#ec4899), white text. Do not change these.
+5. CTAs labeled '(primary)' = filled purple button. CTAs labeled '(ghost)' = outlined transparent button.
+6. Colored/gradient text: on hero H1 headlines, the second line or a key word should use the existing purple-to-pink gradient style. Do not change which element gets the gradient — keep it as it currently is.
+7. Testimonials: these are placeholder quotes. Usama will confirm final versions — for now add them as written with a note in the code.
+8. Stats/numbers: all stats are confirmed final. Use exactly as written.
+9. If a section label says 'Keep existing layout' — do not restructure it. Only swap the text strings.
+10. When in doubt, message Usama before making layout or design decisions.

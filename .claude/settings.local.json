@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"E:\\\\DDW\\\\DDW_studio\\\\DDW_studio_ddwstudio.com-main\" && npx next build 2>&1 | tail -30)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(ls /home/rahim/mern/DDW/ddwstudio/app/[locale]/)",
+      "Bash(grep -A 5 '\"\"ThankYou\"\"' /home/rahim/mern/DDW/ddwstudio/messages/it.json)"
+    ]
+  }
+}

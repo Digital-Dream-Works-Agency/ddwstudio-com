@@ -1,0 +1,1047 @@
+{
+  "Metadata": {
+    "title": "DDW Studio | Agentic AI & Custom Software | Florida & Italy",
+    "description": "DDW Studio builds vertical agentic AI systems and custom ERP on infrastructure we own. Serving businesses in Florida and Italy. Ship in weeks, not months.",
+    "keywords": "agentic AI, custom ERP, AI automation, custom software, Florida, Italy, logistics AI, HVAC AI, real estate AI"
+  },
+  "Navigation": {
+    "brand": "DDW Studio",
+    "brandSub": "Agentic AI",
+    "links": {
+      "home": "Home",
+      "industries": "Industries",
+      "solutions": "Solutions",
+      "about": "About"
+    },
+    "industriesDropdown": {
+      "title": "Industries We Serve",
+      "logistics": "Logistics & Trucking",
+      "hvac": "HVAC & Field Services",
+      "realEstate": "Real Estate",
+      "construction": "Construction",
+      "franchise": "Franchise Operations",
+      "marine": "Marine & Boat Industry",
+      "maritime": "Maritime & Port Logistics",
+      "wealthManagement": "Wealth Management",
+      "professionalServices": "Professional Services"
+    },
+    "solutionsDropdown": {
+      "title": "What We Build",
+      "agenticAI": "Agentic AI Systems",
+      "customERP": "Custom ERP",
+      "aiAutomation": "AI Automation",
+      "customSoftware": "Custom Software"
+    },
+    "cta": {
+      "talkToUs": "Book a Discovery Call",
+      "talkToSales": "Talk to Sales",
+      "getDemo": "Get Demo"
+    }
+  },
+  "Hero": {
+    "badge1": "Agentic AI Studio — Florida",
+    "badge2": "Fixed Price · 6–12 Weeks to Live · You Own the Code",
+    "h1Line1": "Your Operations Are Leaking Revenue.",
+    "h1Line2": "We Know Exactly Where.",
+    "subheadline": "Unanswered calls, manual dispatch, missed follow-ups, invoice backlogs — every one of those is money leaving your business every single day.",
+    "subheadlineHighlight": " DDW Studio builds vertical AI systems that seal those leaks — custom-built for your industry, running in weeks, on infrastructure we own.",
+    "subheadlineTrust": " Fixed price. No scope creep. You own everything at the end.",
+    "cta1": "Book a Free Discovery Call",
+    "cta2": "See What We've Built",
+    "ticker": "HVAC & Field Services · Logistics & Trucking · Real Estate · Construction · Marine",
+    "industries": {
+      "logistics": "Logistics",
+      "hvac": "HVAC",
+      "realEstate": "Real Estate",
+      "construction": "Construction",
+      "franchise": "Franchise",
+      "marine": "Marine",
+      "maritime": "Maritime",
+      "wealthManagement": "Wealth Mgmt",
+      "professionalServices": "Pro Services"
+    },
+    "scrollToExplore": "Scroll to explore"
+  },
+  "Stats": {
+    "badge": "Real Numbers From Real Deployments",
+    "h2": "Not projections.",
+    "h2Highlight": "Production results.",
+    "subtitle": "Every number below comes from a live system running in a client's business. We don't publish metrics we can't back up with a real case.",
+    "stat1": {
+      "prefix": "",
+      "value": "38",
+      "suffix": "%",
+      "label": "Average drop in unanswered inbound calls — HVAC & marine clients using LYRA"
+    },
+    "stat2": {
+      "prefix": "",
+      "value": "6",
+      "suffix": " wks",
+      "label": "Median time from first discovery call to live production system"
+    },
+    "stat3": {
+      "prefix": "$",
+      "value": "2400",
+      "suffix": "+",
+      "label": "Estimated monthly revenue recovered per HVAC operator with LYRA"
+    },
+    "stat4": {
+      "prefix": "",
+      "value": "31",
+      "suffix": "%",
+      "label": "Average cost reduction for fleet operators running Fleet-OS dispatch AI"
+    }
+  },
+  "Products": {
+    "badge": "Our Products",
+    "h2": "AI Systems Built for",
+    "h2Highlight": "Specific Operations",
+    "subtitle": "We don't sell generic software. Every product targets a specific operational bottleneck — and ships with the integrations your team already uses.",
+    "bottomNote": "Lyra and Fleet-OS operate as independent brands with dedicated domains and support teams.",
+    "learnMore": "Learn more →",
+    "product1": {
+      "name": "LYRA",
+      "tagline": "AI Voice Receptionist",
+      "stat": "38%",
+      "statLabel": "of calls go unanswered without it",
+      "description": "LYRA handles inbound and outbound calls autonomously — books appointments, qualifies leads, updates your CRM, and never puts a customer on hold. Every missed call is $800–$2,400 in lost revenue. LYRA ends that.",
+      "features": [
+        "Autonomous Call Handling",
+        "CRM Integration",
+        "Appointment Booking"
+      ]
+    },
+    "product2": {
+      "name": "Fleet-OS",
+      "tagline": "AI Logistics TMS",
+      "stat": "31%",
+      "statLabel": "average cost reduction",
+      "description": "Fleet-OS gives logistics operators real-time dispatch control, AI route optimization, and automated invoicing. Built for fleets of 30–150 trucks. Italian operators: fatturazione elettronica included.",
+      "features": [
+        "AI Dispatch",
+        "Route Optimization",
+        "Fatture in Cloud Integration"
+      ]
+    },
+    "product3": {
+      "name": "HR-OS",
+      "tagline": "HR Automation Platform",
+      "stat": "80%",
+      "statLabel": "fewer HR tickets",
+      "description": "HR-OS answers employee questions 24/7, automates onboarding workflows, manages leave requests, and tracks compliance — so your HR team can focus on people, not paperwork.",
+      "features": [
+        "24/7 AI Chatbot",
+        "Workflow Automation",
+        "Compliance Tracking"
+      ]
+    },
+    "product4": {
+      "name": "Sviluppiamo.dev",
+      "tagline": "Italy's First AI Vibe-Coding Platform",
+      "stat": "3x",
+      "statLabel": "faster than traditional development",
+      "description": "Sviluppiamo.dev is our proprietary AI development platform — and the reason DDW Studio ships faster than any competitor. Five AI agents. Full stack. Italian-language interface. It's also available as a standalone SaaS.",
+      "features": [
+        "5 AI Coding Agents",
+        "Full Stack Generation",
+        "Italian Language UI"
+      ]
+    }
+  },
+  "Industries": {
+    "badge": "Industries We Serve",
+    "h2": "We Go Deep,",
+    "h2Highlight": "Not Wide",
+    "subtitle": "Generic AI agencies build generic systems. We specialize in specific verticals — which means we already know your workflows, your integrations, and your compliance requirements before the first call.",
+    "usTitle": "United States — Florida",
+    "itTitle": "Italy — Rome & National",
+    "industries": {
+      "logistics": {
+        "name": "Logistics & Trucking",
+        "market": "US + Italy",
+        "pain": "Manual dispatch, missed deliveries, invoice backlogs",
+        "solution": "Agentic dispatch, route optimization, automated invoicing",
+        "cta": "See Logistics Solutions →"
+      },
+      "hvac": {
+        "name": "HVAC & Field Services",
+        "market": "US — Florida",
+        "pain": "38% of calls go unanswered. Scheduling chaos. Lost jobs.",
+        "solution": "AI receptionist + job scheduling automation",
+        "cta": "See HVAC Solutions →"
+      },
+      "realEstate": {
+        "name": "Real Estate",
+        "market": "US — Florida",
+        "pain": "Leads going cold, follow-up gaps, manual paperwork",
+        "solution": "AI lead handling, follow-up agents, document automation",
+        "cta": "See Real Estate Solutions →"
+      },
+      "construction": {
+        "name": "Construction & Contractors",
+        "market": "US — Florida",
+        "pain": "Subcontractor chaos, payment disputes, compliance docs",
+        "solution": "Project tracking, payment automation, permit workflows",
+        "cta": "See Construction Solutions →"
+      },
+      "franchise": {
+        "name": "Franchise Operations",
+        "market": "US — Florida",
+        "pain": "30 locations × 30 operational problems = unmanageable",
+        "solution": "Centralized agentic operations system across all locations",
+        "cta": "See Franchise Solutions →"
+      },
+      "marine": {
+        "name": "Marine & Boat Industry",
+        "market": "US — Florida",
+        "pain": "Booking chaos, service scheduling, parts inventory",
+        "solution": "Agentic booking, maintenance, and customer communication system",
+        "cta": "See Marine Solutions →"
+      },
+      "maritime": {
+        "name": "Maritime & Port Logistics",
+        "market": "Italy",
+        "pain": "Legacy systems, cargo tracking gaps, customs documentation",
+        "solution": "AI cargo management, customs doc generation, port scheduling",
+        "cta": "See Maritime Solutions →"
+      },
+      "wealthManagement": {
+        "name": "Wealth Management",
+        "market": "US + Italy",
+        "pain": "Client reporting takes days. Meeting prep is manual.",
+        "solution": "Automated client reporting, meeting prep agents, CRM automation",
+        "cta": "See Wealth Management Solutions →"
+      },
+      "professionalServices": {
+        "name": "Professional Services",
+        "market": "Italy",
+        "pain": "Commercialisti and consulenti drowning in paperwork",
+        "solution": "Document processing agents, client communication automation",
+        "cta": "See Professional Services Solutions →"
+      }
+    }
+  },
+  "Solutions": {
+    "badge": "What We Build",
+    "h2": "Four Ways We",
+    "h2Highlight": "Build for You",
+    "solutions": {
+      "agenticAI": {
+        "name": "Agentic AI Systems",
+        "description": "Autonomous systems that take a goal and execute it end-to-end — without human hand-holding. Multi-step workflows, tool use, self-correction. Built for operations that can't afford manual bottlenecks.",
+        "dealSize": "$15K–$50K build · $2K–$5K/month retainer",
+        "timeline": "6–12 weeks to production",
+        "cta": "Learn About Agentic AI →"
+      },
+      "customERP": {
+        "name": "Custom ERP",
+        "description": "Industry-specific ERP systems built for how your business actually operates — not how SAP thinks it does. Finance, inventory, HR, compliance, customer management — unified in one system.",
+        "dealSize": "$20K–$80K",
+        "timeline": "8–16 weeks to production",
+        "cta": "Learn About Custom ERP →"
+      },
+      "aiAutomation": {
+        "name": "AI Automation",
+        "description": "Take your most painful manual processes and put AI in charge. Document processing, customer follow-up, data entry, reporting — automated and running 24/7.",
+        "dealSize": "$10K–$30K build · $1K–$3K/month retainer",
+        "timeline": "4–8 weeks to production",
+        "cta": "Learn About AI Automation →"
+      },
+      "customSoftware": {
+        "name": "Custom Software",
+        "description": "Built from scratch for your specific workflows. When off-the-shelf software doesn't fit, we build exactly what you need — on time, on budget, on our own infrastructure.",
+        "dealSize": "$15K–$60K",
+        "timeline": "6–14 weeks to production",
+        "cta": "Learn About Custom Software →"
+      }
+    }
+  },
+  "HowItWorks": {
+    "badge": "How It Works",
+    "h2": "From First Call to",
+    "h2Highlight": "Live System",
+    "subtitle": "One call. A fixed-price proposal in 48 hours. A working system in 6–12 weeks. No retainer surprises. No hourly billing. You own everything.",
+    "efficiencyValue": "48 hrs",
+    "efficiencyLabel": "From first call to proposal in your inbox",
+    "step1": {
+      "number": "01",
+      "title": "Discovery Call — Free, No Pitch",
+      "description": "We spend 45 minutes mapping your operation. No sales deck. No NDA required. Just an honest conversation about where AI actually moves the needle — and where it won't. You leave with clarity either way."
+    },
+    "step2": {
+      "number": "02",
+      "title": "Fixed-Price Proposal in 48 Hours",
+      "description": "You get a scoped build plan with a fixed price and a delivery timeline. No hourly billing. No scope creep. We build on Sviluppiamo.dev — our own AI platform — so you're not paying for our ramp-up."
+    },
+    "step3": {
+      "number": "03",
+      "title": "We Build. You Own.",
+      "description": "Your system goes live in 6–12 weeks. You own the code, the data, and the IP outright. We offer a lightweight retainer for ongoing improvements — but there's no lock-in. Most clients keep us because it works."
+    },
+    "cta": "Book Your Free Discovery Call"
+  },
+  "CompanyInfo": {
+    "badge": "About DDW Studio",
+    "h2Pre": "Built in",
+    "h2Highlight": "Florida & Rome.",
+    "h2Post": "Shipped Worldwide.",
+    "aboutPara": "DDW Studio is the product division of <company>Digital Dream Works LLC</company> — a Florida-registered technology company with operations in Rome, Italy. We built our own AI development platform — Sviluppiamo.dev — so we could ship faster and at a lower cost than any traditional dev shop. That platform is now a product in its own right.",
+    "companyName": "Digital Dream Works LLC",
+    "ddwCard": {
+      "title": "DDW Studio",
+      "subtitle": "Agentic AI & Custom Software",
+      "description": "LYRA · Fleet-OS · HR-OS · Sviluppiamo.dev. Each product operates independently with its own domain and dedicated team."
+    },
+    "agencyCard": {
+      "title": "DDW Agency",
+      "subtitle": "Marketing & Growth Services",
+      "description": "Retainer-based services: Marketing Systems, Web Development, AI Automation, Go-to-Market.",
+      "url": "DigitalDreamWorksAgency.com"
+    },
+    "stats": {
+      "saasProducts": "Active Products",
+      "saasProductsValue": "4",
+      "aiOps": "Markets",
+      "aiOpsValue": "US + IT",
+      "certified": "Build Speed",
+      "certifiedValue": "3x",
+      "uptimeSla": "Uptime SLA",
+      "uptimeSlaValue": "99.9%"
+    },
+    "location": "Florida, USA · Rome, Italy"
+  },
+  "Testimonials": {
+    "badge": "Client Results",
+    "h2": "What Operators",
+    "h2Highlight": "Say",
+    "subtitle": "From trucking companies in Italy to HVAC operators in Florida — here's what happens when agentic AI runs your operations.",
+    "testimonial1": {
+      "quote": "We had 112 trucks and a dispatch team of 8. After Fleet-OS, our dispatch team runs the same fleet with 4 people. The system handles what used to take half our day.",
+      "author": "Operations Director",
+      "role": "Logistics Operator",
+      "company": "Northern Italy, 112 trucks"
+    },
+    "testimonial2": {
+      "quote": "LYRA answered 94% of our inbound calls in the first week. Our HVAC team stopped losing jobs to voicemail. The ROI was visible before the end of month one.",
+      "author": "Owner",
+      "role": "HVAC Company",
+      "company": "Tampa, Florida"
+    },
+    "testimonial3": {
+      "quote": "They gave us a fixed price, hit the deadline, and the system worked on day one. That's never happened with a software company before.",
+      "author": "CEO",
+      "role": "Construction Group",
+      "company": "Miami, Florida"
+    }
+  },
+  "Security": {
+    "badge": "Enterprise Security",
+    "h2": "Your Data.",
+    "h2Highlight": "Your IP.",
+    "subtitle": "You own the code. You own the data. We don't resell your systems to competitors, and we don't lock you into proprietary platforms you can't leave.",
+    "feature1": {
+      "title": "You Own the Code",
+      "description": "All custom builds are fully yours. No vendor lock-in, no proprietary traps."
+    },
+    "feature2": {
+      "title": "GDPR Compliant",
+      "description": "Full compliance for Italian and European clients. EU data residency available."
+    },
+    "feature3": {
+      "title": "End-to-End Encryption",
+      "description": "Data encrypted at rest and in transit across all deployments."
+    },
+    "feature4": {
+      "title": "99.9% Uptime SLA",
+      "description": "Enterprise-grade infrastructure with guaranteed availability."
+    },
+    "certifications": [
+      "GDPR",
+      "CCPA",
+      "SSL/TLS",
+      "IP Ownership",
+      "Data Residency"
+    ]
+  },
+  "CTA": {
+    "h2Line1": "If Your Business Still Needs You",
+    "h2Line2": "to Run It — It Isn't Built Yet.",
+    "subtitle": "We build the systems that run your operations without you in the room. One discovery call. Fixed-price proposal in 48 hours.",
+    "cta1": "Book a Discovery Call",
+    "cta2": "See What We Build",
+    "microcopy": "No commitment · Fixed-price proposals · You own the code"
+  },
+  "Footer": {
+    "brand": "DDW Studio",
+    "brandSub": "Agentic AI",
+    "tagline": "Vertical agentic AI systems and custom software. Florida & Italy.",
+    "columns": {
+      "products": "Products",
+      "industries": "Industries",
+      "solutions": "Solutions",
+      "company": "Company",
+      "legal": "Legal"
+    },
+    "productLinks": [
+      "LYRA →",
+      "Fleet-OS →",
+      "HR-OS",
+      "Sviluppiamo.dev →"
+    ],
+    "industryLinks": [
+      "Logistics",
+      "HVAC",
+      "Real Estate",
+      "Construction",
+      "Maritime (Italy)"
+    ],
+    "solutionLinks": [
+      "Agentic AI",
+      "Custom ERP",
+      "AI Automation",
+      "Custom Software"
+    ],
+    "companyLinks": [
+      "Home",
+      "About",
+      "Contact"
+    ],
+    "legalLinks": [
+      "Privacy",
+      "Terms",
+      "Security",
+      "Cookies"
+    ],
+    "copyright": "© {year} DDW Studio. Digital Dream Works LLC. All rights reserved.",
+    "location": "Florida, USA · Rome, Italy"
+  },
+  "ContactForm": {
+    "title": "Book Your Discovery Call",
+    "subtitle": "Tell us about your operation. We'll map the bottlenecks and send a fixed-price proposal within 48 hours.",
+    "firstName": "First Name",
+    "firstNamePlaceholder": "John",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Smith",
+    "email": "Work Email",
+    "emailPlaceholder": "john.smith@company.com",
+    "phone": "Phone Number",
+    "phonePlaceholder": "(555) 123-4567",
+    "company": "Company Name",
+    "companyPlaceholder": "Acme Corp",
+    "companySize": "Company Size",
+    "companySizePlaceholder": "Select company size",
+    "productInterest": "What Do You Need?",
+    "productInterestPlaceholder": "What are you looking to build or automate?",
+    "message": "Tell Us About Your Operation",
+    "messagePlaceholder": "What's the biggest bottleneck in your operations right now?",
+    "consent": "I agree to DDW Studio's Privacy Policy and consent to being contacted about this request.",
+    "submit": "Book Discovery Call",
+    "sending": "Submitting...",
+    "successTitle": "You're In.",
+    "successSubtitle": "We'll review your submission and reach out within 24 hours to schedule your discovery call.",
+    "sendAnother": "Send another request",
+    "errorConfig": "EmailJS configuration is missing. Please check your .env file.",
+    "errorGeneral": "Something went wrong. Please try again later.",
+    "privacy": "By submitting this form, you agree to our privacy policy.",
+    "companySizes": {
+      "s1_50": "1-50 employees",
+      "s51_200": "51-200 employees",
+      "s201_1000": "201-1,000 employees",
+      "s1001_5000": "1,001-5,000 employees",
+      "s5000": "5,000+ employees"
+    },
+    "products": {
+      "agenticAI": "Agentic AI System",
+      "customERP": "Custom ERP",
+      "aiAutomation": "AI Automation",
+      "customSoftware": "Custom Software",
+      "lyra": "LYRA — AI Voice Receptionist",
+      "fleet": "Fleet-OS — Logistics TMS",
+      "hros": "HR-OS — HR Automation",
+      "sviluppiamo": "Sviluppiamo.dev",
+      "unsure": "Not sure yet — help me figure it out"
+    }
+  },
+  "ThankYou": {
+    "badge": "You're In",
+    "title": "Discovery Call",
+    "titleHighlight": "Request Received",
+    "subtitle": "We've got your submission. Our team reviews every request personally and will reach out within 24 hours with next steps.",
+    "featureConfirmation": "Confirmation sent to your email",
+    "featureResponse": "Personal response within 24 hours",
+    "featureDemo": "Fixed-price proposal within 48 hours of our call",
+    "backHome": "Back to Home",
+    "learnMore": "See What We Build"
+  },
+  "About": {
+    "metaTitle": "About DDW Studio | Agentic AI & Custom Software | Florida & Italy",
+    "hero": {
+      "title": "About DDW Studio",
+      "subtitle": "We build agentic AI systems and custom software for US and Italian businesses. On our own infrastructure. Faster than anyone else."
+    },
+    "story": {
+      "badge": "Our Story",
+      "h2": "We Built Our Own Platform So We Could Build Yours Faster",
+      "p1": "DDW Studio is the product division of Digital Dream Works LLC — a Florida-registered company with operations in Rome, Italy. We started as a full-service digital agency. As AI became the dominant force in software, we made a single bet: build our own AI development infrastructure, specialize in specific verticals, and stop competing on price.",
+      "p2": "That infrastructure is Sviluppiamo.dev — Italy's first AI vibe-coding platform. We built it for ourselves. Now it's a product too. And it's why we can quote 6-week delivery timelines that other studios laugh at — until they see us hit them."
+    },
+    "divisions": {
+      "h2": "One Company. Two Divisions.",
+      "studio": {
+        "title": "DDW Studio — AI Products & Custom Development",
+        "description": "LYRA · Fleet-OS · HR-OS · Sviluppiamo.dev. Plus custom agentic AI systems, ERP development, and business automation for US and Italian clients."
+      },
+      "agency": {
+        "title": "Digital Dream Works Agency — Marketing & Growth",
+        "link": "Visit: DigitalDreamWorksAgency.com",
+        "description": "Retainer-based services: Marketing Systems, Web Development, AI Automation, Go-to-Market Execution."
+      }
+    },
+    "values": {
+      "h2": "What We Stand For",
+      "v1": {
+        "title": "Fixed Prices",
+        "description": "We quote once. We don't inflate mid-project."
+      },
+      "v2": {
+        "title": "You Own It",
+        "description": "All code, IP, and data belong to you. Always."
+      },
+      "v3": {
+        "title": "Vertical Depth",
+        "description": "We know your industry before the first call."
+      },
+      "v4": {
+        "title": "Shipping Speed",
+        "description": "6–12 weeks to production. On our infrastructure."
+      }
+    },
+    "cta": {
+      "h2": "Ready to Build Something That Runs Without You?",
+      "p": "Book a discovery call. Fixed-price proposal in 48 hours.",
+      "demo": "Book a Discovery Call",
+      "sales": "Talk to Sales"
+    }
+  },
+  "ComingSoon": {
+    "title": "Coming Soon",
+    "description": "This section is under development. In the meantime, book a discovery call and let's talk about what you need built.",
+    "backHome": "Back to Home"
+  },
+  "Portfolio": {
+    "metaTitle": "Portfolio | DDW Studio — Agentic AI & Custom Software Builds",
+    "metaDescription": "See what DDW Studio has built — AI voice systems, logistics TMS, HR automation, vibe-coding platforms, and 24 white-label SaaS systems. Real builds. Real results.",
+    "hero": {
+      "badge": "Our Work",
+      "h1": "What We've Built",
+      "h1Highlight": "Speaks For Itself",
+      "subtitle": "Every project below went to production. No mockups, no concept work — real systems running real operations in Florida and Italy."
+    },
+    "filters": {
+      "all": "All Work",
+      "products": "Our Products",
+      "clientWork": "Client Work",
+      "whiteLabel": "White-Label Systems"
+    },
+    "cases": {
+      "fleetOS": {
+        "category": "products",
+        "market": "Italy + USA",
+        "name": "Fleet-OS",
+        "tagline": "AI Logistics TMS for 30–150 Truck Fleets",
+        "problem": "Italian logistics operators were managing 60–120 truck fleets with spreadsheets and WhatsApp groups. Dispatch errors cost them hours daily. Invoice cycles ran 28 days.",
+        "built": "Full-stack multi-tenant TMS: React frontend, Supabase/RLS backend, AI dispatch engine, real-time driver PWA, Fatture in Cloud integration, and automated invoicing.",
+        "results": "31% cost reduction · Invoice cycles cut from 28 days to 4 · 92% fewer dispatch errors",
+        "stack": ["Next.js", "Supabase", "React Native PWA", "AI Dispatch", "Fatture in Cloud", "Vercel"],
+        "externalUrl": "https://www.fleetosbyddw.com",
+        "externalLabel": "Visit Fleet-OS →"
+      },
+      "lyra": {
+        "category": "products",
+        "market": "USA",
+        "name": "LYRA",
+        "tagline": "AI Voice Receptionist for HVAC, Medical & Real Estate",
+        "problem": "38% of HVAC calls go unanswered during peak season. Each missed call costs $800–$2,400 in lost revenue.",
+        "built": "AI voice receptionist: inbound/outbound call handling, appointment booking, CRM updates, N8N post-call webhooks, Twilio SMS follow-up. Florida HVAC pipeline: 168 enriched leads.",
+        "results": "94% call capture rate · 24/7 availability · $799/month price point",
+        "stack": ["Retell AI", "N8N", "Twilio", "Google Sheets CRM", "Webhook Automation"],
+        "externalUrl": "https://www.lyrabyddw.com",
+        "externalLabel": "Visit LYRA →"
+      },
+      "sviluppiamo": {
+        "category": "products",
+        "market": "Italy",
+        "name": "Sviluppiamo.dev",
+        "tagline": "Italy's First AI Vibe-Coding Platform",
+        "problem": "Italian developers and non-technical founders had no Italian-language AI development platform.",
+        "built": "Full SaaS platform with 5 AI coding agents, WebContainers for in-browser execution, Stripe billing, full auth, Italian-language interface throughout.",
+        "results": "Feature-complete · Stripe live · 5 AI agents operational · Italy's first AI vibe-coding platform",
+        "stack": ["Next.js", "WebContainers", "Stripe", "Supabase", "Google OAuth", "Vercel"],
+        "externalUrl": "https://sviluppiamo.dev",
+        "externalLabel": "Visit Sviluppiamo.dev →"
+      },
+      "hros": {
+        "category": "products",
+        "market": "USA + Italy",
+        "name": "HR-OS",
+        "tagline": "AI HR Automation Platform",
+        "problem": "Mid-size companies were routing 80% of HR queries manually — benefits questions, PTO requests, policy lookups.",
+        "built": "Full HR automation platform: AI chatbot + voice support 24/7, onboarding workflow automation, leave management, document generation, compliance tracking.",
+        "results": "80% ticket reduction · 24/7 availability · Fully built and production-ready",
+        "stack": ["React", "Supabase", "AI Chatbot", "Voice AI", "HRIS Integration"],
+        "externalUrl": null,
+        "externalLabel": null
+      },
+      "base": {
+        "category": "clientWork",
+        "market": "Italy",
+        "name": "Base S.p.A.",
+        "tagline": "Premium Website + AI Voice Agent for Livorno Freight Forwarder",
+        "problem": "Base S.p.A., a Livorno-based freight forwarder, needed a premium digital presence plus a bilingual AI agent for inbound inquiries.",
+        "built": "Homepage with Ken Burns photo effects, SVG world map showing all office locations, animated statistics, and Sofia — a bilingual (IT/EN) Retell AI voice agent.",
+        "results": "Full production deployment · Bilingual AI receptionist live · Premium enterprise aesthetic",
+        "stack": ["HTML/CSS/JS", "Retell AI", "SVG Animation", "Netlify"],
+        "externalUrl": null,
+        "externalLabel": null
+      },
+      "whiteLabel": {
+        "category": "whiteLabel",
+        "market": "USA + Italy",
+        "name": "24 White-Label SaaS Systems",
+        "tagline": "Production-Ready Systems Available via Qualified Demo Access",
+        "problem": "Businesses needed enterprise-grade software without enterprise-grade budgets or 12-month timelines.",
+        "built": "24 production-ready white-label systems including: AI Content Generator, AI Voice Assistant, HR Ops System, Fleet Management Suite, CRM, Analytics Dashboard, Lead Capture Engine, Booking System, and 16 more.",
+        "results": "24 systems · All demo-ready · White-label licensing available",
+        "stack": ["React", "Node.js", "Supabase", "Stripe", "AI/ML", "Multi-tenant"],
+        "externalUrl": "https://studio.digitaldreamworksagency.com/tool",
+        "externalLabel": "View Full Catalog →"
+      }
+    },
+    "cta": {
+      "h2": "Seen Enough?",
+      "h2Highlight": "Let's Build Yours.",
+      "subtitle": "Every project above started with a single discovery call. Fixed-price proposal within 48 hours.",
+      "cta1": "Book a Discovery Call",
+      "cta2": "See What We Build"
+    }
+  },
+  "HROS": {
+    "metaTitle": "HR-OS | AI HR Automation Software | DDW Studio",
+    "metaDescription": "HR-OS is an intelligent HR automation platform with AI chatbot and voice support. Answers employee questions 24/7, automates HR workflows, and integrates with existing HRIS systems. Reduce HR tickets by 80%.",
+    "hero": {
+      "badge": "AI HR Automation",
+      "title": "HR-OS",
+      "tagline": "AI HR Automation Software",
+      "description": "Intelligent HR automation platform with AI chatbot and voice support. Answers employee questions 24/7, automates HR workflows, and integrates with existing HRIS systems. Reduce HR ticket volume by 80%.",
+      "stat": "80% Fewer HR Tickets",
+      "demo": "Schedule Demo",
+      "learnMore": "Learn More"
+    },
+    "automates": {
+      "h2": "What HR-OS Automates",
+      "items": {
+        "support": "24/7 Employee Support: AI answers HR questions instantly, any time of day",
+        "onboarding": "Onboarding Automation: Guides new employees through onboarding step by step",
+        "policy": "Policy Q&A: Instant answers to benefits, PTO, and company policy questions",
+        "leave": "Leave Management: Automates leave requests, approvals, and calendar updates",
+        "document": "Document Processing: Auto-generates HR documents and routes for signatures",
+        "compliance": "Compliance Tracking: Monitors training completion and certification renewals"
+      }
+    },
+    "results": {
+      "h2": "Proven Results",
+      "p1": "80% Fewer Tickets",
+      "p2": "95% Faster Response",
+      "p3": "24/7 Availability",
+      "p4": "60% Reduction in HR Admin Time"
+    },
+    "useCases": {
+      "h2": "Built For",
+      "midsize": "Mid-size Companies (50-500 employees): Scale HR without adding headcount",
+      "enterprise": "Enterprise HR Departments: Handle high volume queries efficiently",
+      "multiLocation": "Multi-location Businesses: Consistent HR support across all locations",
+      "healthcare": "Healthcare Organizations: HIPAA-ready HR automation",
+      "logistics": "Logistics Companies: 24/7 support for shift workers"
+    },
+    "integrations": {
+      "h2": "Integrates With Your HRIS",
+      "list": "Workday | ADP | BambooHR | Gusto | SAP SuccessFactors | Custom APIs"
+    },
+    "cta": {
+      "h2": "Ready to Automate HR?",
+      "p": "See how HR-OS can free your HR team from repetitive questions and manual tasks.",
+      "demo": "Schedule Demo",
+      "sales": "Contact Sales"
+    }
+  },
+  "Lyra": {
+    "metaTitle": "Lyra AI Voice Assistant | AI-Powered Call Automation | DDW Studio",
+    "metaDescription": "Lyra is an enterprise AI voice assistant that handles inbound and outbound calls with natural conversation, automatic CRM updates, and intelligent routing. Reduce call response times by 95%.",
+    "hero": {
+      "badge": "AI Voice Assistant",
+      "title": "Meet Lyra",
+      "tagline": "AI-Powered Call Automation",
+      "description": "Enterprise AI voice assistant that handles inbound and outbound calls with natural conversation, automatic CRM updates, and intelligent call routing. Perfect for sales teams, customer support, and appointment scheduling.",
+      "stat": "95% Faster Response Time",
+      "demo": "Schedule Demo",
+      "learnMore": "Learn More"
+    },
+    "automates": {
+      "h2": "What Lyra Automates",
+      "items": {
+        "inbound": "Inbound Call Handling: Answers calls instantly, 24/7, with natural conversation",
+        "outbound": "Outbound Campaigns: Automated follow-ups, appointment reminders, and sales calls",
+        "crm": "CRM Integration: Automatically logs every call, updates records, and creates tasks",
+        "routing": "Intelligent Routing: Routes complex calls to the right human agent instantly",
+        "scheduling": "Appointment Scheduling: Books, confirms, and reschedules without human input",
+        "multiLang": "Multi-language Support: Handles calls in English and Spanish (more coming)"
+      }
+    },
+    "results": {
+      "h2": "Proven Results",
+      "p1": "95% Faster Response",
+      "p2": "80% Reduction in Missed Calls",
+      "p3": "47% More Conversions",
+      "p4": "24/7 Availability"
+    },
+    "useCases": {
+      "h2": "Built For",
+      "sales": "Sales Teams: Automate follow-ups and qualification calls",
+      "support": "Customer Support: Handle high call volumes without adding headcount",
+      "healthcare": "Healthcare: Appointment scheduling and patient reminders",
+      "realestate": "Real Estate: Property inquiries and showing scheduling",
+      "financial": "Financial Services: Client outreach and appointment setting"
+    },
+    "integrations": {
+      "h2": "Integrates With Your Stack",
+      "list": "Salesforce | HubSpot | Microsoft Dynamics | Zoho CRM | Custom APIs"
+    },
+    "cta": {
+      "h2": "See Lyra in Action",
+      "p": "Schedule a live demo and watch Lyra handle real calls in your industry.",
+      "demo": "Schedule Demo",
+      "sales": "Contact Sales"
+    }
+  },
+  "FleetOS": {
+    "metaTitle": "Fleet-OS | AI Fleet Management System | DDW Studio",
+    "metaDescription": "Fleet-OS is a voice-activated AI fleet management and dispatch system. AI-powered route optimization, real-time driver coordination, and automated scheduling for logistics operations. Reduce dispatch errors by 92%.",
+    "hero": {
+      "badge": "AI Fleet Management",
+      "title": "Fleet-OS",
+      "tagline": "AI Fleet Management System",
+      "description": "Voice-activated fleet management and dispatch system for logistics operations. AI-powered route optimization, real-time driver coordination, and automated scheduling. Reduce dispatch errors by 92%.",
+      "stat": "92% Fewer Dispatch Errors",
+      "demo": "Schedule Demo",
+      "learnMore": "Learn More"
+    },
+    "automates": {
+      "h2": "What Fleet-OS Automates",
+      "items": {
+        "voice": "Voice Dispatch: Dispatchers control entire fleet with voice commands",
+        "route": "AI Route Optimization: Real-time routing based on traffic, weather, and priorities",
+        "coordination": "Driver Coordination: Automated assignment and real-time communication",
+        "tracking": "Fleet Tracking: Live GPS tracking of every vehicle in your fleet",
+        "scheduling": "Automated Scheduling: AI builds and optimizes driver schedules automatically",
+        "delivery": "Delivery Confirmation: Automated proof of delivery and customer notifications"
+      }
+    },
+    "results": {
+      "h2": "Proven Results",
+      "p1": "92% Fewer Errors",
+      "p2": "18% Fuel Cost Reduction",
+      "p3": "35% Faster Deliveries",
+      "p4": "24/7 Operations"
+    },
+    "useCases": {
+      "h2": "Built For",
+      "trucking": "Trucking Companies: Long-haul and regional fleet management",
+      "lastMile": "Last-Mile Delivery: Urban delivery optimization",
+      "field": "Field Service Operations: Technician scheduling and routing",
+      "medical": "Medical Transport: Patient transport coordination",
+      "distCenter": "Distribution Centers: Warehouse to customer delivery automation"
+    },
+    "integrations": {
+      "h2": "Integrates With Your Systems",
+      "list": "Google Maps | Samsara | Geotab | QuickBooks | Custom ERP | Custom APIs"
+    },
+    "cta": {
+      "h2": "Optimize Your Fleet Today",
+      "p": "See how Fleet-OS eliminates dispatch errors and cuts fuel costs for logistics operations.",
+      "demo": "Schedule Demo",
+      "sales": "Contact Sales"
+    }
+  },
+  "ProposalGen": {
+    "metaTitle": "AI Proposal Generator | Automated Sales Proposal Software | DDW Studio",
+    "metaDescription": "AI-powered proposal generation that creates professional sales proposals instantly from CRM data. Voice-activated, customizable templates, and automatic client personalization. Close deals 3x faster.",
+    "hero": {
+      "badge": "AI Sales Automation",
+      "title": "AI Proposal Generator",
+      "tagline": "Automated Sales Proposal Software",
+      "description": "AI-powered proposal generation that creates professional sales proposals instantly from CRM data. Voice-activated, customizable templates, and automatic client personalization. Close deals 3x faster.",
+      "stat": "3x Faster Deal Closing",
+      "demo": "Schedule Demo",
+      "learnMore": "Learn More"
+    },
+    "automates": {
+      "h2": "What AI Proposal Generator Automates",
+      "items": {
+        "instant": "Instant Proposals: Generate complete proposals in under 60 seconds",
+        "crm": "CRM Data Pull: Automatically pulls client data from your CRM",
+        "voice": "Voice Activation: Create proposals with a voice command",
+        "templates": "Custom Templates: Industry-specific templates that match your brand",
+        "personalization": "Auto Personalization: Every proposal customized to the specific client",
+        "esignature": "E-Signature Ready: Send and track proposals with built-in e-signature"
+      }
+    },
+    "results": {
+      "h2": "Proven Results",
+      "p1": "3x Faster Proposals",
+      "p2": "60% More Proposals Sent",
+      "p3": "40% Higher Win Rate",
+      "p4": "<60s Creation Time"
+    },
+    "useCases": {
+      "h2": "Built For",
+      "b2b": "B2B Sales Teams: Close more deals with less admin time",
+      "consulting": "Consulting Firms: Professional proposals that win clients",
+      "marketing": "Marketing Agencies: Branded proposals in seconds",
+      "it": "IT Service Providers: Technical proposals with accurate pricing",
+      "realestate": "Real Estate Professionals: Property proposals and investment decks"
+    },
+    "integrations": {
+      "h2": "Integrates With Your CRM",
+      "list": "Salesforce | HubSpot | Pipedrive | Zoho | Monday.com | Custom APIs"
+    },
+    "cta": {
+      "h2": "Start Closing Deals Faster",
+      "p": "See how AI Proposal Generator creates winning proposals in under 60 seconds.",
+      "demo": "Schedule Demo",
+      "sales": "Contact Sales"
+    }
+  },
+  "PrivacyPolicy": {
+    "metaTitle": "Privacy Policy | DDW Studio - Digital Dream Works LLC",
+    "metaDescription": "DDW Studio privacy policy. Learn how Digital Dream Works LLC collects, uses, and protects your data in compliance with GDPR and US privacy laws.",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: February 9, 2026",
+    "intro": "Digital Dream Works LLC (\"DDW Studio\", \"we\", \"us\", or \"our\") operates ddwstudio.com. This Privacy Policy explains how we collect, use, and protect your information.",
+    "s1": {
+      "title": "Information We Collect",
+      "p1": "We collect information you provide directly to us, such as:",
+      "b1": "Name and email address when you request a demo or contact us",
+      "b2": "Company name and job title when you fill out forms",
+      "b3": "Payment information when you subscribe to our services",
+      "b4": "Communications you send us via email or contact forms",
+      "p2": "We automatically collect certain information when you visit our website:",
+      "b5": "IP address and browser type",
+      "b6": "Pages visited and time spent on each page",
+      "b7": "Referring website addresses",
+      "b8": "Device and operating system information"
+    },
+    "s2": {
+      "title": "How We Use Your Information",
+      "p1": "We use the information we collect to:",
+      "b1": "Provide, maintain, and improve our AI automation platform",
+      "b2": "Process transactions and send related information",
+      "b3": "Send technical notices and support messages",
+      "b4": "Respond to your comments and questions",
+      "b5": "Send marketing communications (with your consent)",
+      "b6": "Monitor and analyze usage patterns to improve user experience",
+      "b7": "Detect and prevent fraudulent transactions and other illegal activities"
+    },
+    "s3": {
+      "title": "Information Sharing",
+      "p1": "We do not sell, trade, or rent your personal information to third parties. We may share your information with:",
+      "b1": "Service providers who assist us in operating our platform",
+      "b2": "Business partners with your consent",
+      "b3": "Law enforcement when required by law",
+      "b4": "Successor entities in the event of a merger or acquisition"
+    },
+    "s4": {
+      "title": "Data Security",
+      "p1": "We implement industry-standard security measures to protect your personal information including AES-256 encryption for data at rest and in transit, secure HTTPS connections, regular security audits, and access controls. While we take reasonable precautions, no method of transmission over the Internet is 100% secure."
+    },
+    "s5": {
+      "title": "Cookies",
+      "p1": "We use cookies and similar tracking technologies to improve your experience. See our Cookie Policy at ddwstudio.com/cookies for details. You can control cookie settings through your browser."
+    },
+    "s6": {
+      "title": "Your Rights",
+      "p1": "Depending on your location, you may have the right to:",
+      "b1": "Access the personal information we hold about you",
+      "b2": "Request correction of inaccurate data",
+      "b3": "Request deletion of your personal data",
+      "b4": "Object to processing of your personal data",
+      "b5": "Request restriction of processing",
+      "b6": "Data portability",
+      "p2": "To exercise these rights, contact us at:"
+    },
+    "s7": {
+      "title": "GDPR (European Users)",
+      "p1": "If you are located in the European Economic Area (EEA), you have additional rights under the General Data Protection Regulation (GDPR). Our lawful basis for processing your data is consent, contract performance, or legitimate interests. You have the right to lodge a complaint with your local data protection authority."
+    },
+    "s8": {
+      "title": "Data Retention",
+      "p1": "We retain your personal information for as long as necessary to provide our services and comply with legal obligations. When you delete your account, we will delete or anonymize your information within 30 days."
+    },
+    "s9": {
+      "title": "Third-Party Links",
+      "p1": "Our website may contain links to third-party websites. We are not responsible for the privacy practices of these sites and encourage you to review their privacy policies."
+    },
+    "s10": {
+      "title": "Children's Privacy",
+      "p1": "Our services are not directed to individuals under 18 years of age. We do not knowingly collect personal information from children."
+    },
+    "s11": {
+      "title": "Changes to This Policy",
+      "p1": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the \"Last updated\" date."
+    },
+    "s12": {
+      "title": "Contact Us",
+      "p1": "If you have questions about this Privacy Policy, contact us at:",
+      "emailLabel": "Email:",
+      "address": "Digital Dream Works LLC, Florida, USA",
+      "websiteLabel": "Website:"
+    }
+  },
+  "TermsOfService": {
+    "metaTitle": "Terms of Service | DDW Studio - Digital Dream Works LLC",
+    "metaDescription": "DDW Studio terms of service. Review the terms and conditions governing use of DDW Studio's enterprise AI automation platform and services.",
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: February 9, 2026",
+    "intro": "Please read these Terms of Service carefully before using DDW Studio's enterprise AI automation platform operated by Digital Dream Works LLC.",
+    "s1": {
+      "title": "Acceptance of Terms",
+      "p1": "By accessing or using DDW Studio (\"the Platform\"), you agree to be bound by these Terms of Service. If you disagree with any part of these terms, you may not access the Platform. These terms apply to all visitors, users, and customers."
+    },
+    "s2": {
+      "title": "Description of Service",
+      "p1": "DDW Studio provides enterprise AI automation software including Lyra AI Voice Assistant, HR-OS HR Automation Software, Fleet-OS Fleet Management System, and AI Proposal Generator. Features and pricing are subject to change with notice."
+    },
+    "s3": {
+      "title": "Account Registration",
+      "p1": "To access certain features, you must register for an account. You agree to:",
+      "b1": "Provide accurate and complete information",
+      "b2": "Maintain the security of your password",
+      "b3": "Accept responsibility for all activities under your account",
+      "b4": "Notify us immediately of any unauthorized access"
+    },
+    "s4": {
+      "title": "Acceptable Use",
+      "p1": "You agree not to use the Platform to:",
+      "b1": "Violate any applicable laws or regulations",
+      "b2": "Infringe on intellectual property rights",
+      "b3": "Transmit harmful, offensive, or disruptive content",
+      "b4": "Attempt to gain unauthorized access to any systems",
+      "b5": "Interfere with the proper functioning of the Platform",
+      "b6": "Reverse engineer or copy our AI models or software"
+    },
+    "s5": {
+      "title": "Payment Terms",
+      "p1": "Subscription fees are billed in advance on a monthly or annual basis. All fees are non-refundable except as required by law or as stated in our refund policy. We reserve the right to change pricing with 30 days notice."
+    },
+    "s6": {
+      "title": "Intellectual Property",
+      "p1": "The Platform and its original content, features, and functionality are owned by Digital Dream Works LLC and are protected by US and international copyright, trademark, and other intellectual property laws. You retain ownership of data you input into the Platform."
+    },
+    "s7": {
+      "title": "Data and Privacy",
+      "p1": "Your use of the Platform is also governed by our Privacy Policy at",
+      "p2": "By using the Platform, you consent to our data practices as described in the Privacy Policy."
+    },
+    "s8": {
+      "title": "Limitation of Liability",
+      "p1": "To the maximum extent permitted by law, Digital Dream Works LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of the Platform. Our total liability shall not exceed the amount paid by you in the 12 months preceding the claim."
+    },
+    "s9": {
+      "title": "Disclaimer of Warranties",
+      "p1": "The Platform is provided \"as is\" without warranty of any kind. We do not warrant that the Platform will be uninterrupted, error-free, or free of viruses. We make no warranties regarding the accuracy or reliability of any AI-generated content."
+    },
+    "s10": {
+      "title": "Termination",
+      "p1": "We may terminate or suspend your account immediately, without prior notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties. Upon termination, your right to use the Platform will cease immediately."
+    },
+    "s11": {
+      "title": "Governing Law",
+      "p1": "These Terms shall be governed by and construed in accordance with the laws of the State of Florida, United States, without regard to its conflict of law provisions. Any disputes shall be resolved in the courts of Florida."
+    },
+    "s12": {
+      "title": "Changes to Terms",
+      "p1": "We reserve the right to modify these terms at any time. We will notify users of significant changes via email or prominent notice on the Platform. Continued use after changes constitutes acceptance."
+    },
+    "s13": {
+      "title": "Contact",
+      "p1": "Questions about these Terms? Contact us at:",
+      "emailLabel": "Email:",
+      "address": "Digital Dream Works LLC, Florida, USA"
+    }
+  },
+  "CookiePolicy": {
+    "metaTitle": "Cookie Policy | DDW Studio - Digital Dream Works LLC",
+    "metaDescription": "DDW Studio cookie policy. Learn how we use cookies and tracking technologies on our enterprise AI platform and how to manage your preferences.",
+    "title": "Cookie Policy",
+    "lastUpdated": "Last updated: February 9, 2026",
+    "intro": "This Cookie Policy explains how Digital Dream Works LLC uses cookies and similar technologies on ddwstudio.com.",
+    "s1": {
+      "title": "What Are Cookies",
+      "p1": "Cookies are small text files stored on your device when you visit a website. They help websites remember your preferences, understand how you use the site, and improve your experience."
+    },
+    "s2": {
+      "title": "Types of Cookies We Use",
+      "essential": {
+        "title": "Essential Cookies (Always Active)",
+        "subtitle": "Required for the website to function properly. Cannot be disabled.",
+        "b1": "Session management",
+        "b2": "Security and fraud prevention",
+        "b3": "Load balancing"
+      },
+      "analytics": {
+        "title": "Analytics Cookies (Optional)",
+        "subtitle": "Help us understand how visitors interact with our website.",
+        "b1": "Google Analytics - page views, traffic sources",
+        "b2": "Hotjar - user behavior analysis",
+        "b3": "Performance monitoring"
+      },
+      "marketing": {
+        "title": "Marketing Cookies (Optional)",
+        "subtitle": "Used to deliver relevant advertisements and track campaign effectiveness.",
+        "b1": "Google Ads - ad targeting",
+        "b2": "LinkedIn Insight Tag - B2B targeting",
+        "b3": "Conversion tracking"
+      },
+      "functional": {
+        "title": "Functional Cookies (Optional)",
+        "subtitle": "Remember your preferences and settings.",
+        "b1": "Language preferences",
+        "b2": "Chat widget settings",
+        "b3": "Demo booking preferences"
+      }
+    },
+    "s3": {
+      "title": "Managing Cookies",
+      "p1": "You can control cookies through:",
+      "b1": "Our cookie consent banner (appears on first visit)",
+      "b2": "Your browser settings - most browsers allow you to refuse cookies",
+      "b3": "Third-party opt-out tools (Google Analytics Opt-out, etc.)",
+      "p2": "Note: Disabling essential cookies may affect website functionality."
+    },
+    "s4": {
+      "title": "Third-Party Cookies",
+      "p1": "Some cookies are placed by third-party services on our pages. We do not control these cookies. Please review the respective privacy policies of these third parties."
+    },
+    "s5": {
+      "title": "Cookie Retention",
+      "p1": "Session cookies expire when you close your browser. Persistent cookies remain for a defined period (typically 1-2 years) or until you delete them."
+    },
+    "s6": {
+      "title": "Updates to This Policy",
+      "p1": "We may update this Cookie Policy periodically. The updated date at the top of this page indicates when it was last revised."
+    },
+    "s7": {
+      "title": "Contact",
+      "p1": "Questions about our cookie practices? Contact: privacy@ddwstudio.com"
+    }
+  }
+}
