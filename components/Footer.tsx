@@ -56,7 +56,7 @@ const columnConfig = [
   {
     columnKey: 'products',
     linksKey: 'productLinks',
-    paths: ['/products/lyra', '/products/hr-os', '/products/fleet-os', '/products/proposal-gen']
+    paths: ['/products/lyra', '/products/fleet-os', '/products/hr-os', '/products/proposal-gen']
   },
   {
     columnKey: 'company',

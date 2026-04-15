@@ -115,7 +115,7 @@ export default function SolutionsSection() {
                         <span className="text-gradient-vibrant">{t('h2Highlight')}</span>
                     </h2>
                     <p className="text-lg text-zinc-400 leading-relaxed">
-                        No generic playbooks. Every engagement is scoped to your operation and built on our own AI infrastructure.
+                        {t('subheadline')}
                     </p>
                 </motion.div>
 
@@ -158,7 +158,7 @@ export default function SolutionsSection() {
                                     {solution.featured && (
                                         <div className="absolute top-6 right-6">
                                             <span className="px-3 py-1 text-xs font-bold tracking-wider text-accent-300 bg-accent-400/10 border border-accent-400/20 rounded-full uppercase">
-                                                Featured
+                                                {t('featuredLabel')}
                                             </span>
                                         </div>
                                     )}
@@ -195,7 +195,7 @@ export default function SolutionsSection() {
                                         href={`/solutions/${solution.slug}` as any}
                                         className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white/5 border border-white/10 text-white font-semibold hover:bg-white hover:text-black transition-all duration-300 group w-fit"
                                     >
-                                        Learn More
+                                        {t(`solutions.${solution.key}.cta`)}
                                         <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
                                     </Link>
                                 </div>
@@ -216,17 +216,17 @@ export default function SolutionsSection() {
                     <div className="relative px-10 py-12 flex flex-col sm:flex-row items-center justify-between gap-6">
                         <div>
                             <p className="text-sm text-accent-300 font-semibold tracking-wider uppercase mb-2">
-                                Fixed price · No scope creep
+                                {t('ctaBandLabel')}
                             </p>
                             <h3 className="text-2xl font-bold text-white font-display">
-                                Get a proposal in 48 hours.
+                                {t('ctaBandHeadline')}
                             </h3>
                         </div>
                         <button
                             onClick={openContactModal}
                             className="shrink-0 btn-primary px-8 py-4 text-base"
                         >
-                            Book a Discovery Call
+                            {t('ctaBandButton')}
                         </button>
                     </div>
                 </motion.div>

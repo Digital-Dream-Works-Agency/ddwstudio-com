@@ -247,7 +247,12 @@
         "timeline": "2–6 weeks to production",
         "cta": "Learn More"
       }
-    }
+    },
+    "subheadline": "No generic playbooks. Every engagement is scoped to your operation and built on our own AI infrastructure.",
+    "featuredLabel": "Featured",
+    "ctaBandLabel": "Fixed price · No scope creep",
+    "ctaBandHeadline": "Get a proposal in 48 hours.",
+    "ctaBandButton": "Book a Discovery Call"
   },
   "HowItWorks": {
     "badge": "How It Works",
@@ -1102,6 +1107,7 @@
     "detail": "Seven years. Florida LLC. Rome office. Our own development platform. That combination exists nowhere else.",
     "trust1": "You own all code, IP, and data. No exceptions.",
     "trust2": "Fixed-price proposals. One quote. No surprises.",
-    "trust3": "GDPR compliant. Built for US and Italian regulatory environments."
+    "trust3": "GDPR compliant. Built for US and Italian regulatory environments.",
+    "statLabel": "Years. Florida & Rome. Our own platform."
   }
 }

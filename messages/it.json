@@ -247,7 +247,12 @@
         "timeline": "2–6 settimane in produzione",
         "cta": "Scopri di più"
       }
-    }
+    },
+    "subheadline": "Nessun approccio generico. Ogni progetto è costruito sulla nostra infrastruttura AI, su misura per la tua operazione.",
+    "featuredLabel": "In Evidenza",
+    "ctaBandLabel": "Prezzo fisso · Nessun fuori budget",
+    "ctaBandHeadline": "Ricevi una proposta in 48 ore.",
+    "ctaBandButton": "Prenota una Discovery Call"
   },
   "HowItWorks": {
     "badge": "Come Funziona",
@@ -1108,6 +1113,7 @@
     "detail": "Sette anni. Florida LLC. Ufficio a Roma. Nostra piattaforma di sviluppo. Quella combinazione non esiste da nessun'altra parte.",
     "trust1": "Codice, IP e dati sono sempre tuoi. Senza eccezioni.",
     "trust2": "Proposte a prezzo fisso. Un preventivo. Nessuna sorpresa.",
-    "trust3": "Conformità GDPR. Costruito per ambienti regolatori italiani e americani."
+    "trust3": "Conformità GDPR. Costruito per ambienti regolatori italiani e americani.",
+    "statLabel": "Anni. Florida e Roma. La nostra piattaforma."
   }
 }

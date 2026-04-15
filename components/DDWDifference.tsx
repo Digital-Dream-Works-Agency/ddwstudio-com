@@ -81,7 +81,7 @@ export default function DDWDifference() {
                             transition={{ duration: 0.5, delay: 0.5 }}
                         >
                             <p className="text-5xl font-bold font-display text-gradient mb-2">7</p>
-                            <p className="text-zinc-400 text-sm">Years. Florida & Rome. Our own platform.</p>
+                            <p className="text-zinc-400 text-sm">{t('statLabel')}</p>
                         </motion.div>
                     </motion.div>
 
