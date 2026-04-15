@@ -13,12 +13,12 @@ import { setRequestLocale } from 'next-intl/server';
 import Navigation from '@/components/Navigation';
 import Hero3D from '@/components/Hero3D';
 import Stats from '@/components/Stats';
-import Products3D from '@/components/Products3D';
-import IndustriesGrid from '@/components/IndustriesGrid';
+import ProblemSection from '@/components/ProblemSection';
 import SolutionsSection from '@/components/SolutionsSection';
-import HowItWorks from '@/components/HowItWorks';
-import CompanyInfo from '@/components/CompanyInfo';
+import DDWDifference from '@/components/DDWDifference';
+import Products3D from '@/components/Products3D';
 import Testimonials from '@/components/Testimonials';
+import HowItWorks from '@/components/HowItWorks';
 import Security from '@/components/Security';
 import CTABand from '@/components/CTABand';
 import Footer from '@/components/Footer';
@@ -45,15 +45,13 @@ export default function Home({
 
             {/* Hero section — uses useTranslations('Hero') internally */}
             <Hero3D />
-
-            {/* Remaining sections — will be internationalized in future batches */}
             <Stats />
-            <Products3D />
-            <IndustriesGrid />
+            <ProblemSection />
             <SolutionsSection />
-            <HowItWorks />
-            <CompanyInfo />
+            <DDWDifference />
+            <Products3D />
             <Testimonials />
+            <HowItWorks />
             <Security />
             <CTABand />
             <Footer />

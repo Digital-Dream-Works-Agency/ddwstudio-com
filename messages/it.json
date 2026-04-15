@@ -39,14 +39,14 @@
     }
   },
   "Hero": {
-    "badge1": "Studio AI Agentici — Roma",
-    "badge2": "Prezzo Fisso · In Produzione in 6–12 Settimane · Il Codice è Tuo",
-    "h1Line1": "La Tua Operazione Perde Fatturato",
-    "h1Line2": "Ogni Giorno Che Non Automatizzi.",
-    "subheadline": "Dispatch su fogli Excel. Appuntamenti gestiti al telefono. Report costruiti a mano. Follow-up che non arrivano mai. Ogni processo manuale è margine che perdi ogni giorno.",
-    "subheadlineHighlight": " DDW Studio progetta e distribuisce sistemi AI verticali che gestiscono quelle operazioni al posto tuo — costruiti per il tuo settore, attivi in 6–12 settimane, su infrastruttura nostra.",
-    "subheadlineTrust": " Prezzo fisso. Nessuna sorpresa. Il codice e i dati rimangono tuoi.",
-    "cta1": "Prenota una Discovery Call Gratuita",
+    "badge1": "Florida LLC · 7 Anni nel Settore · Florida e Roma",
+    "badge2": "Prezzo Fisso · In Produzione in 6–12 Settimane · Il Codice È Tuo",
+    "h1Line1": "La Tua Azienda È Cresciuta.",
+    "h1Line2": "I Tuoi Sistemi No.",
+    "subheadline": "Ad un certo punto ogni azienda in crescita incontra lo stesso muro. I processi che ti hanno portato fin qui iniziano a costarti soldi. DDW Studio costruisce i sistemi AI, l'automazione e il software personalizzato che colmano quel gap.",
+    "subheadlineHighlight": " Lo facciamo da 7 anni, in due continenti, per aziende che si sono rifiutate di restare bloccate.",
+    "subheadlineTrust": "",
+    "cta1": "Prenota una Discovery Call",
     "cta2": "Scopri Cosa Abbiamo Costruito",
     "ticker": "HVAC e Servizi sul Campo · Logistica · Portuale e Marittimo · Commercialisti · Immobiliare",
     "industries": {
@@ -63,40 +63,40 @@
     "scrollToExplore": "Scorri per esplorare"
   },
   "Stats": {
-    "badge": "Numeri Reali da Sistemi in Produzione",
-    "h2": "Non proiezioni.",
-    "h2Highlight": "Risultati reali.",
-    "subtitle": "Ogni numero proviene da un sistema live in esecuzione nell'operazione di un cliente. Non pubblichiamo metriche che non possiamo dimostrare con un caso reale.",
+    "badge": "Sette Anni. Due Mercati. Un Sistema.",
+    "h2": "I Numeri",
+    "h2Highlight": "Dietro il Lavoro",
+    "subtitle": "Sette anni di sistemi operativi costruiti in Florida e Italia — sviluppati, consegnati, e in produzione.",
     "stat1": {
       "prefix": "",
-      "value": "38",
-      "suffix": "%",
-      "label": "Riduzione media delle chiamate senza risposta — operatori HVAC e nautici con LYRA"
+      "value": "7",
+      "suffix": "+",
+      "label": "Anni · Sistemi operativi costruiti"
     },
     "stat2": {
       "prefix": "",
-      "value": "6",
-      "suffix": " sett.",
-      "label": "Tempo mediano dalla prima call al sistema in produzione"
+      "value": "2",
+      "suffix": "",
+      "label": "Mercati · Florida USA · Roma Italia"
     },
     "stat3": {
-      "prefix": "€",
-      "value": "2400",
-      "suffix": "+",
-      "label": "Fatturato mensile recuperato in media per operatore HVAC con LYRA"
+      "prefix": "",
+      "value": "4",
+      "suffix": "",
+      "label": "Prodotti Attivi · In produzione e funzionanti"
     },
     "stat4": {
       "prefix": "",
-      "value": "31",
-      "suffix": "%",
-      "label": "Riduzione media dei costi per operatori logistici con Fleet-OS dispatch AI"
+      "value": "24",
+      "suffix": "",
+      "label": "Sistemi nel nostro portfolio attivo"
     }
   },
   "Products": {
-    "badge": "I Nostri Prodotti",
-    "h2": "Sistemi AI Costruiti per",
-    "h2Highlight": "Operazioni Specifiche",
-    "subtitle": "Non vendiamo software generico. Ogni prodotto attacca uno specifico collo di bottiglia operativo — e viene consegnato con le integrazioni che il tuo team già usa.",
+    "badge": "Forse Ci Conosci Già Da",
+    "h2": "I Nostri Prodotti Stanno Già",
+    "h2Highlight": "Gestendo Operazioni Reali.",
+    "subtitle": "",
     "bottomNote": "LYRA e Fleet-OS operano come brand indipendenti con domini dedicati e team di supporto.",
     "learnMore": "Scopri di più →",
     "product1": {
@@ -104,7 +104,7 @@
       "tagline": "Receptionist AI Vocale",
       "stat": "38%",
       "statLabel": "delle chiamate senza risposta senza di lei",
-      "description": "LYRA gestisce le chiamate in entrata e in uscita in modo autonomo — prenota appuntamenti, qualifica i lead, aggiorna il CRM e non mette mai un cliente in attesa. Ogni chiamata persa vale 800–2.400€ di fatturato perso. LYRA pone fine a questo.",
+      "description": "AI che risponde alle chiamate, prenota appuntamenti e aggiorna il tuo CRM. 24/7, senza personale.",
       "features": [
         "Gestione Autonoma Chiamate",
         "Integrazione CRM",
@@ -116,7 +116,7 @@
       "tagline": "TMS Logistico AI",
       "stat": "31%",
       "statLabel": "riduzione media dei costi",
-      "description": "Fleet-OS offre agli operatori logistici controllo del dispatch in tempo reale, ottimizzazione percorsi AI e fatturazione automatizzata. Costruito per flotte di 30–150 camion. Operatori italiani: fatturazione elettronica inclusa.",
+      "description": "Dispatch e gestione logistica AI che ha ridotto i costi operativi del 31% per operatori fleet in Italia e negli USA.",
       "features": [
         "Dispatch AI",
         "Ottimizzazione Percorsi",
@@ -128,7 +128,7 @@
       "tagline": "Piattaforma di Automazione HR",
       "stat": "80%",
       "statLabel": "meno ticket HR",
-      "description": "HR-OS risponde alle domande dei dipendenti 24/7, automatizza i flussi di onboarding, gestisce le richieste di ferie e monitora la conformità — così il tuo team HR può concentrarsi sulle persone, non sulla burocrazia.",
+      "description": "Automazione HR che gestisce l'80% delle domande dei dipendenti senza che il tuo team HR le tocchi.",
       "features": [
         "Chatbot AI 24/7",
         "Automazione Flussi",
@@ -137,10 +137,10 @@
     },
     "product4": {
       "name": "Sviluppiamo.dev",
-      "tagline": "La Prima Piattaforma AI di Vibe-Coding in Italia",
+      "tagline": "La Nostra Piattaforma di Sviluppo",
       "stat": "3x",
       "statLabel": "più veloce dello sviluppo tradizionale",
-      "description": "Sviluppiamo.dev è la nostra piattaforma AI proprietaria — e il motivo per cui DDW Studio consegna più velocemente di qualsiasi competitor. Cinque agenti AI. Full stack. Interfaccia in italiano. È anche disponibile come SaaS standalone.",
+      "description": "La prima piattaforma italiana di vibe-coding AI. L'infrastruttura su cui costruiamo. Ora disponibile anche per te.",
       "features": [
         "5 Agenti AI di Coding",
         "Generazione Full Stack",
@@ -223,62 +223,60 @@
   },
   "Solutions": {
     "badge": "Cosa Costruiamo",
-    "h2": "Quattro Modi in Cui",
-    "h2Highlight": "Costruiamo per Te",
+    "h2": "Costruiamo Tre Cose.",
+    "h2Highlight": "Una È Probabilmente Quella di Cui Hai Bisogno.",
     "solutions": {
       "agenticAI": {
-        "name": "Sistemi AI Agentici",
-        "description": "Sistemi autonomi che prendono un obiettivo e lo eseguono dall'inizio alla fine — senza supervisione umana. Flussi multi-step, uso di strumenti, auto-correzione. Costruiti per operazioni che non possono permettersi colli di bottiglia manuali.",
-        "dealSize": "€15K–€50K build · €2K–€5K/mese retainer",
-        "timeline": "6–12 settimane alla produzione",
-        "cta": "Scopri gli AI Agentici →"
-      },
-      "customERP": {
-        "name": "ERP Personalizzato",
-        "description": "Sistemi ERP specifici per settore costruiti per come la tua azienda opera davvero — non come SAP pensa che dovrebbe. Finanza, inventario, HR, conformità, gestione clienti — unificati in un unico sistema.",
-        "dealSize": "€20K–€80K",
-        "timeline": "8–16 settimane alla produzione",
-        "cta": "Scopri l'ERP Personalizzato →"
-      },
-      "aiAutomation": {
-        "name": "Automazione AI",
-        "description": "Prendi i tuoi processi manuali più dolorosi e metti l'AI al comando. Elaborazione documenti, follow-up clienti, inserimento dati, reportistica — automatizzati e operativi 24/7.",
-        "dealSize": "€10K–€30K build · €1K–€3K/mese retainer",
-        "timeline": "4–8 settimane alla produzione",
-        "cta": "Scopri l'Automazione AI →"
+        "name": "AI Agentici",
+        "description": "Sistemi che agiscono, non solo rispondono. Le chiamate vengono gestite. I lead qualificati. I task completati. Senza che nessuno li gestisca.",
+        "dealSize": "Da €15K",
+        "timeline": "6–12 settimane in produzione",
+        "cta": "Scopri di più"
       },
       "customSoftware": {
-        "name": "Software Personalizzato",
-        "description": "Costruito da zero per i tuoi flussi di lavoro specifici. Quando il software standard non si adatta, costruiamo esattamente ciò di cui hai bisogno — nei tempi, nel budget, sulla nostra infrastruttura.",
-        "dealSize": "€15K–€60K",
-        "timeline": "6–14 settimane alla produzione",
-        "cta": "Scopri il Software Personalizzato →"
+        "name": "Software Personalizzato ed ERP",
+        "description": "Costruito per i tuoi flussi di lavoro, non per un mercato generico. Quando lo standard non si adatta, costruiamo quello che si adatta. Il codice è sempre tuo.",
+        "dealSize": "Da €20K",
+        "timeline": "6–14 settimane in produzione",
+        "cta": "Scopri di più"
+      },
+      "vibeCoding": {
+        "name": "Vibe Coding",
+        "description": "Costruiamo su Sviluppiamo.dev, la nostra piattaforma AI proprietaria. Ecco perché consegniamo 3x più velocemente di qualsiasi altro studio. Quella velocità è tua.",
+        "dealSize": "Da €8K",
+        "timeline": "2–6 settimane in produzione",
+        "cta": "Scopri di più"
       }
     }
   },
   "HowItWorks": {
     "badge": "Come Funziona",
-    "h2": "Dalla Prima Call al",
-    "h2Highlight": "Sistema in Produzione",
-    "subtitle": "Una call. Una proposta a prezzo fisso in 48 ore. Un sistema funzionante in 6–12 settimane. Nessuna sorpresa. Nessun costo orario. Tutto tuo.",
+    "h2": "Una Call.",
+    "h2Highlight": "Quarantotto Ore. Poi Costruiamo.",
+    "subtitle": "Una call. Una proposta a prezzo fisso in 48 ore. Un sistema funzionante in 6–12 settimane. Tutto tuo alla fine.",
     "efficiencyValue": "48 ore",
-    "efficiencyLabel": "Dalla prima call alla proposta nella tua casella",
+    "efficiencyLabel": "Dalla call alla proposta nella tua inbox",
     "step1": {
       "number": "01",
-      "title": "Discovery Call Gratuita — Senza Pitch",
-      "description": "45 minuti per mappare la tua operazione. Nessun deck di vendita. Nessun NDA richiesto. Una conversazione onesta su dove l'AI sposta davvero i numeri — e dove no. Esci con chiarezza in ogni caso."
+      "title": "Discovery Call",
+      "description": "Mappiamo la tua operazione e troviamo esattamente il collo di bottiglia. Nessuno scoping vago. Nessuna fase discovery da 3 settimane. Solo chiarezza."
     },
     "step2": {
       "number": "02",
-      "title": "Proposta a Prezzo Fisso in 48 Ore",
-      "description": "Ricevi un piano di sviluppo con prezzo fisso e timeline di consegna. Nessuna fatturazione oraria. Nessuno scope creep. Sviluppiamo su Sviluppiamo.dev — la nostra piattaforma AI — quindi non paghi la nostra curva di apprendimento."
+      "title": "Proposta a Prezzo Fisso",
+      "description": "Entro 48 ore hai una proposta. Prezzo fisso, timeline fissa, scope chiaro. Decidi senza pressione."
     },
     "step3": {
       "number": "03",
-      "title": "Costruiamo. Il Codice è Tuo.",
-      "description": "Il sistema va live in 6–12 settimane. Tu sei proprietario del codice, dei dati e dell'IP in modo assoluto. Offriamo un retainer leggero per miglioramenti continui — ma non c'è lock-in. La maggior parte dei clienti ci tiene perché funziona."
+      "title": "Costruito sulla Nostra Infrastruttura",
+      "description": "Costruiamo su Sviluppiamo.dev, la nostra piattaforma. Ecco perché rispettiamo le timeline che altri studi mancano."
     },
-    "cta": "Prenota la Tua Discovery Call Gratuita"
+    "cta": "Prenota una Discovery Call",
+    "step4": {
+      "number": "04",
+      "title": "Tutto Tuo",
+      "description": "Codice. IP. Dati. Tutti tuoi. Restiamo come retainer solo se lo vuoi tu."
+    }
   },
   "CompanyInfo": {
     "badge": "Chi Siamo",
@@ -311,26 +309,26 @@
     "location": "Florida, USA · Roma, Italia"
   },
   "Testimonials": {
-    "badge": "Risultati dei Clienti",
-    "h2": "Cosa Dicono",
-    "h2Highlight": "gli Operatori",
-    "subtitle": "Dalle aziende di trasporto in Italia agli operatori HVAC in Florida — ecco cosa succede quando l'AI agentici gestisce le tue operations.",
+    "badge": "Cosa Succede Dopo Che Costruiamo",
+    "h2": "Operazioni Che Prima Avevano Bisogno di Te.",
+    "h2Highlight": "Ora No.",
+    "subtitle": "",
     "testimonial1": {
-      "quote": "Avevamo 112 camion e un team dispatch di 8 persone. Dopo Fleet-OS, il nostro team gestisce la stessa flotta con 4 persone. Il sistema gestisce quello che prima ci occupava metà della giornata.",
+      "quote": "Due persone non facevano altro che dispatch. Dopo Fleet-OS, il sistema lo gestisce. Quelle due persone ora fanno lavoro vero.",
       "author": "Direttore Operativo",
       "role": "Operatore Logistico",
-      "company": "Italia del Nord, 112 camion"
+      "company": "Italia del Nord · 64 camion"
     },
     "testimonial2": {
-      "quote": "LYRA ha risposto al 94% delle nostre chiamate in entrata nella prima settimana. Il nostro team HVAC ha smesso di perdere lavori per la segreteria telefonica. Il ROI era visibile prima della fine del primo mese.",
+      "quote": "LYRA ha gestito il 94% delle chiamate in entrata nella prima settimana. Abbiamo smesso di perdere lavori alla segreteria. Solo questo ha coperto l'anno.",
       "author": "Titolare",
       "role": "Azienda HVAC",
       "company": "Tampa, Florida"
     },
     "testimonial3": {
-      "quote": "Ci hanno dato un prezzo fisso, rispettato la scadenza e il sistema ha funzionato dal primo giorno. Non era mai successo con una software house prima.",
+      "quote": "Prezzo fisso, consegnato in tempo, funzionava il primo giorno. Non l'ho mai detto di una software house prima.",
       "author": "CEO",
-      "role": "Gruppo Costruzioni",
+      "role": "Gruppo Edile",
       "company": "Miami, Florida"
     }
   },
@@ -364,12 +362,12 @@
     ]
   },
   "CTA": {
-    "h2Line1": "Se la Tua Azienda Ha Ancora Bisogno di Te",
-    "h2Line2": "per Funzionare — Non È Ancora Costruita.",
-    "subtitle": "Costruiamo i sistemi che gestiscono le tue operazioni anche quando non sei in ufficio. Una discovery call. Proposta a prezzo fisso entro 48 ore.",
+    "h2Line1": "Se la Tua Azienda Ha Ancora Bisogno",
+    "h2Line2": "di Te per Funzionare. Non È Ancora Costruita.",
+    "subtitle": "Una call. Ti diremo esattamente cosa va costruito, quanto costa e quanto tempo ci vuole. Nessun impegno. Nessuna pressione.",
     "cta1": "Prenota una Discovery Call",
-    "cta2": "Scopri Cosa Costruiamo",
-    "microcopy": "Nessun impegno · Proposte a prezzo fisso · Il codice è tuo"
+    "cta2": "Vedi il Nostro Portfolio",
+    "microcopy": "Nessun impegno · Proposte a prezzo fisso · Il codice è tuo · Risposta entro 24 ore"
   },
   "Footer": {
     "brand": "DDW Studio",
@@ -552,7 +550,14 @@
         "problem": "Gli operatori logistici italiani gestivano flotte di 60–120 camion con fogli Excel e gruppi WhatsApp. Gli errori di dispatch costavano ore ogni giorno. I cicli di fatturazione duravano 28 giorni.",
         "built": "TMS multi-tenant full-stack: frontend React, backend Supabase/RLS, motore di dispatch AI, PWA autista in tempo reale, integrazione Fatture in Cloud e fatturazione automatizzata.",
         "results": "Riduzione costi 31% · Cicli di fatturazione ridotti da 28 giorni a 4 · 92% meno errori di dispatch",
-        "stack": ["Next.js", "Supabase", "React Native PWA", "AI Dispatch", "Fatture in Cloud", "Vercel"],
+        "stack": [
+          "Next.js",
+          "Supabase",
+          "React Native PWA",
+          "AI Dispatch",
+          "Fatture in Cloud",
+          "Vercel"
+        ],
         "externalUrl": "https://www.fleetosbyddw.com",
         "externalLabel": "Visita Fleet-OS →"
       },
@@ -564,7 +569,13 @@
         "problem": "Il 38% delle chiamate HVAC rimane senza risposta durante la stagione di punta. Ogni chiamata persa costa 800–2.400€ di fatturato.",
         "built": "Receptionist vocale AI: gestione chiamate in entrata/uscita, prenotazione appuntamenti, aggiornamenti CRM, webhook N8N post-call, follow-up SMS Twilio. Pipeline HVAC Florida: 168 lead arricchiti.",
         "results": "Tasso di cattura chiamate 94% · Disponibilità 24/7 · Prezzo di 799€/mese",
-        "stack": ["Retell AI", "N8N", "Twilio", "Google Sheets CRM", "Webhook Automation"],
+        "stack": [
+          "Retell AI",
+          "N8N",
+          "Twilio",
+          "Google Sheets CRM",
+          "Webhook Automation"
+        ],
         "externalUrl": "https://www.lyrabyddw.com",
         "externalLabel": "Visita LYRA →"
       },
@@ -576,7 +587,14 @@
         "problem": "Gli sviluppatori italiani e i fondatori non tecnici non avevano una piattaforma AI di sviluppo in lingua italiana.",
         "built": "Piattaforma SaaS completa con 5 agenti AI di coding, WebContainers per esecuzione nel browser, fatturazione Stripe, autenticazione completa, interfaccia in italiano.",
         "results": "Feature-complete · Stripe live · 5 agenti AI operativi · Prima piattaforma AI di vibe-coding in Italia",
-        "stack": ["Next.js", "WebContainers", "Stripe", "Supabase", "Google OAuth", "Vercel"],
+        "stack": [
+          "Next.js",
+          "WebContainers",
+          "Stripe",
+          "Supabase",
+          "Google OAuth",
+          "Vercel"
+        ],
         "externalUrl": "https://sviluppiamo.dev",
         "externalLabel": "Visita Sviluppiamo.dev →"
       },
@@ -588,7 +606,13 @@
         "problem": "Le aziende medie instradavano manualmente l'80% delle richieste HR — domande su benefit, richieste di ferie, ricerche di policy.",
         "built": "Piattaforma completa di automazione HR: chatbot AI + supporto vocale 24/7, automazione flussi di onboarding, gestione ferie, generazione documenti, monitoraggio conformità.",
         "results": "Riduzione ticket 80% · Disponibilità 24/7 · Completamente costruito e pronto alla produzione",
-        "stack": ["React", "Supabase", "AI Chatbot", "Voice AI", "HRIS Integration"],
+        "stack": [
+          "React",
+          "Supabase",
+          "AI Chatbot",
+          "Voice AI",
+          "HRIS Integration"
+        ],
         "externalUrl": null,
         "externalLabel": null
       },
@@ -600,7 +624,12 @@
         "problem": "Base S.p.A., uno spedizioniere di Livorno, aveva bisogno di una presenza digitale premium più un agente AI bilingue per le richieste in entrata.",
         "built": "Homepage con effetti foto Ken Burns, mappa SVG del mondo con tutte le sedi, statistiche animate e Sofia — un agente vocale Retell AI bilingue (IT/EN).",
         "results": "Deploy completo in produzione · Receptionist AI bilingue live · Estetica enterprise premium",
-        "stack": ["HTML/CSS/JS", "Retell AI", "SVG Animation", "Netlify"],
+        "stack": [
+          "HTML/CSS/JS",
+          "Retell AI",
+          "SVG Animation",
+          "Netlify"
+        ],
         "externalUrl": null,
         "externalLabel": null
       },
@@ -612,7 +641,14 @@
         "problem": "Le aziende avevano bisogno di software enterprise senza budget enterprise o timeline di 12 mesi.",
         "built": "24 sistemi white-label pronti alla produzione tra cui: Generatore di Contenuti AI, Assistente Vocale AI, Sistema HR Ops, Suite Gestione Flotte, CRM, Dashboard Analytics, Lead Capture Engine, Sistema di Prenotazione e altri 16.",
         "results": "24 sistemi · Tutti pronti per demo · Licenza white-label disponibile",
-        "stack": ["React", "Node.js", "Supabase", "Stripe", "AI/ML", "Multi-tenant"],
+        "stack": [
+          "React",
+          "Node.js",
+          "Supabase",
+          "Stripe",
+          "AI/ML",
+          "Multi-tenant"
+        ],
         "externalUrl": "https://studio.digitaldreamworksagency.com/tool",
         "externalLabel": "Vedi il Catalogo Completo →"
       }
@@ -1049,5 +1085,29 @@
       "title": "Contatti",
       "p1": "Domande sulle nostre pratiche relative ai cookie? Contatto: privacy@ddwstudio.com"
     }
+  },
+  "Problem": {
+    "badge": "Ti Suona Familiare?",
+    "h2Line1": "Stai Ancora Gestendo Cose",
+    "h2Line2": "Che Dovrebbero Gestirsi da Sole.",
+    "lines": [
+      "Rispondi a chiamate che dovrebbe gestire il software.",
+      "Gestisci processi che il tuo team non dovrebbe toccare.",
+      "Hai comprato strumenti che ci vanno quasi. Ma non del tutto.",
+      "Sei cresciuto oltre il punto in cui il manuale funziona.",
+      "Ma non hai ancora trovato il sistema che lo sostituisce."
+    ],
+    "closingLine1": "Quel gap tra dove è la tua azienda e dove sono le tue operazioni.",
+    "closingLine2": "È esattamente quello che chiudiamo noi."
+  },
+  "DDWDifference": {
+    "badge": "Perché DDW Studio",
+    "h2Line1": "Lo Costruiamo.",
+    "h2Line2": "Poi Ti Aiutiamo a Crescerci Sopra.",
+    "body": "La maggior parte degli studi software consegna un sistema e sparisce. DDW Studio è la divisione prodotti di Digital Dream Works, il che significa che quando il tuo sistema è live, la nostra divisione marketing e crescita è già lì per scalarlo.",
+    "detail": "Sette anni. Florida LLC. Ufficio a Roma. Nostra piattaforma di sviluppo. Quella combinazione non esiste da nessun'altra parte.",
+    "trust1": "Codice, IP e dati sono sempre tuoi. Senza eccezioni.",
+    "trust2": "Proposte a prezzo fisso. Un preventivo. Nessuna sorpresa.",
+    "trust3": "Conformità GDPR. Costruito per ambienti regolatori italiani e americani."
   }
 }
